@@ -1,0 +1,20 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Library/Views/LibraryViewAlbum.h" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Library/Views/LibraryViewAlbum.h">
+<area shape="rect" id="node2" href="$_album_8h.html" title="Helper/MetaData/Album.h" alt="" coords="125,213,299,240"/>
+<area shape="rect" id="node8" href="$_library_table_view_8h.html" title="GUI/Library/Views/Library\lTableView.h" alt="" coords="494,124,666,165"/>
+<area shape="rect" id="node3" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="117,385,318,411"/>
+<area shape="rect" id="node9" href="$_library_view_8h.html" title="LibraryView.h" alt="" coords="916,213,1017,240"/>
+<area shape="rect" id="node16" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="1478,385,1586,411"/>
+<area shape="rect" id="node39" href="$_sortorder_8h.html" title="Helper/Library/Sortorder.h" alt="" coords="495,213,665,240"/>
+<area shape="rect" id="node10" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="1068,288,1239,329"/>
+<area shape="rect" id="node11" href="$_set_fwd_8h.html" title="Helper/SetFwd.h" alt="" coords="1097,385,1217,411"/>
+<area shape="rect" id="node12" href="$_searchable_view_8h.html" title="GUI/Helper/SearchableWidget\l/SearchableView.h" alt="" coords="1745,288,1943,329"/>
+<area shape="rect" id="node22" href="$_dragable_8h.html" title="GUI/Helper/Dragable\l/Dragable.h" alt="" coords="1527,288,1671,329"/>
+<area shape="rect" id="node23" href="$_info_dialog_container_8h.html" title="GUI/InfoDialog/InfoDialog\lContainer.h" alt="" coords="319,288,491,329"/>
+<area shape="rect" id="node24" href="$_meta_data_fwd_8h.html" title="Helper/MetaData/MetaData\lFwd.h" alt="" coords="342,377,525,419"/>
+<area shape="rect" id="node25" href="$_library_item_model_8h.html" title="GUI/Library/Models\l/LibraryItemModel.h" alt="" coords="1314,288,1451,329"/>
+<area shape="rect" id="node32" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="737,295,863,322"/>
+<area shape="rect" id="node35" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="618,295,713,322"/>
+<area shape="rect" id="node13" href="$_sayonara_selection_view_8h.html" title="GUI/Helper/SearchableWidget\l/SayonaraSelectionView.h" alt="" coords="1953,377,2151,419"/>
+<area shape="rect" id="node26" href="$_abstract_search_model_8h.html" title="GUI/Helper/SearchableWidget\l/AbstractSearchModel.h" alt="" coords="1242,377,1441,419"/>
+<area shape="rect" id="node30" href="$_search_mode_8h.html" title="Helper/Library/SearchMode.h" alt="" coords="1385,467,1575,493"/>
+</map>

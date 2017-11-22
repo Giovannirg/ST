@@ -1,0 +1,15 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/Database/DatabaseHandler.h" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/Database/DatabaseHandler.h">
+<area shape="rect" id="node2" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="501,109,631,136"/>
+<area shape="rect" id="node3" href="$_library_database_8h.html" title="Database/LibraryDatabase.h" alt="" coords="655,109,843,136"/>
+<area shape="rect" id="node4" href="$_abstract_database_8h.html" title="Database/AbstractDatabase.h" alt="" coords="5,184,204,211"/>
+<area shape="rect" id="node7" href="$_database_albums_8h.html" title="Database/DatabaseAlbums.h" alt="" coords="652,184,845,211"/>
+<area shape="rect" id="node20" href="$_database_artists_8h.html" title="Database/DatabaseArtists.h" alt="" coords="441,184,627,211"/>
+<area shape="rect" id="node21" href="$_database_tracks_8h.html" title="Database/DatabaseTracks.h" alt="" coords="870,184,1059,211"/>
+<area shape="rect" id="node22" href="$_database_library_8h.html" title="Database/DatabaseLibrary.h" alt="" coords="228,184,416,211"/>
+<area shape="rect" id="node8" href="$_database_search_mode_8h.html" title="Database/DatabaseSearchMode.h" alt="" coords="487,259,709,285"/>
+<area shape="rect" id="node14" href="$_database_module_8h.html" title="Database/DatabaseModule.h" alt="" coords="272,259,463,285"/>
+<area shape="rect" id="node15" href="$_sortorder_8h.html" title="Helper/Library/Sortorder.h" alt="" coords="734,259,905,285"/>
+<area shape="rect" id="node17" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="929,259,1054,285"/>
+<area shape="rect" id="node9" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="539,333,647,360"/>
+<area shape="rect" id="node11" href="$_search_mode_8h.html" title="Helper/Library/SearchMode.h" alt="" coords="671,333,861,360"/>
+</map>

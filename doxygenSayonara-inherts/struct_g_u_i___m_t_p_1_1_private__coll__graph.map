@@ -1,0 +1,7 @@
+<map id="GUI_MTP::Private" name="GUI_MTP::Private">
+<area shape="rect" id="node2" href="$class_q_list.html" title="QList\&lt; MTP_StoragePtr \&gt;" alt="" coords="138,5,313,32"/>
+<area shape="rect" id="node3" href="$class_m_t_p.html" title="The MTP class. " alt="" coords="200,56,251,83"/>
+<area shape="rect" id="node5" href="$class_m_t_p___copy_files.html" title="The MTP_CopyFiles class. " alt="" coords="167,107,283,133"/>
+<area shape="rect" id="node6" href="$class_q_list.html" title="QList\&lt; MTP_RawDevicePtr \&gt;" alt="" coords="127,157,324,184"/>
+<area shape="rect" id="node7" href="$class_q_list.html" title="QList\&lt; MTP_DevicePtr \&gt;" alt="" coords="140,208,311,235"/>
+</map>

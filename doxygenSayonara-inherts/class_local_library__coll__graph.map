@@ -1,0 +1,17 @@
+<map id="LocalLibrary" name="LocalLibrary">
+<area shape="rect" id="node2" href="$class_abstract_library.html" title="AbstractLibrary" alt="" coords="792,247,903,273"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="125,52,196,79"/>
+<area shape="rect" id="node6" href="$class_playlist_handler.html" title="Global handler for playlists. " alt="" coords="508,95,619,121"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="317,52,427,79"/>
+<area shape="rect" id="node7" href="$class_artist_list.html" title="ArtistList. " alt="" coords="526,145,601,172"/>
+<area shape="rect" id="node8" href="$class_q_list.html" title="QList\&lt; Artist \&gt;" alt="" coords="318,161,426,188"/>
+<area shape="rect" id="node9" href="$class_library_1_1_filter.html" title="The Filter class. " alt="" coords="514,196,613,223"/>
+<area shape="rect" id="node10" href="$class_library_1_1_sortings.html" title="The Sortings class. " alt="" coords="505,247,622,273"/>
+<area shape="rect" id="node11" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; AlbumID \&gt;" alt="" coords="492,297,635,324"/>
+<area shape="rect" id="node13" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; TrackID \&gt;" alt="" coords="494,348,633,375"/>
+<area shape="rect" id="node15" href="$class_album_list.html" title="The AlbumList class. " alt="" coords="523,399,603,425"/>
+<area shape="rect" id="node16" href="$class_q_list.html" title="QList\&lt; Album \&gt;" alt="" coords="315,399,429,425"/>
+<area shape="rect" id="node17" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; ArtistID \&gt;" alt="" coords="495,449,632,476"/>
+<area shape="rect" id="node19" href="$class_meta_data_list.html" title="MetaDataList" alt="" coords="513,500,613,527"/>
+<area shape="rect" id="node20" href="$class_q_list.html" title="QList\&lt; MetaData \&gt;" alt="" coords="305,500,439,527"/>
+</map>

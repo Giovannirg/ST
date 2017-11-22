@@ -1,0 +1,6 @@
+<map id="SomaFMStation::Private" name="SomaFMStation::Private">
+<area shape="rect" id="node2" href="$class_cover_location.html" title="The CoverLocation class. " alt="" coords="5,89,112,115"/>
+<area shape="rect" id="node3" href="$class_q_map.html" title="QMap\&lt; QString, SomaFMStation\l::UrlType \&gt;" alt="" coords="137,81,351,123"/>
+<area shape="rect" id="node4" href="$class_meta_data_list.html" title="MetaDataList" alt="" coords="375,89,475,115"/>
+<area shape="rect" id="node5" href="$class_q_list.html" title="QList\&lt; MetaData \&gt;" alt="" coords="358,5,493,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ID3v2::AlbumArtistFrame" name="ID3v2::AlbumArtistFrame">
+<area shape="rect" id="node2" href="$class_i_d3v2_1_1_i_d3v2_frame.html" title="ID3v2::ID3v2Frame\&lt;\l QString, TagLib::ID3v2\l::TextIdentificationFrame \&gt;" alt="" coords="16,169,195,225"/>
+<area shape="rect" id="node3" href="$class_tagging_1_1_abstract_frame.html" title="Tagging::AbstractFrame\l\&lt; TagLib::ID3v2::Tag \&gt;" alt="" coords="24,80,187,121"/>
+<area shape="rect" id="node4" href="$class_tagging_1_1_abstract_frame_helper.html" title="Tagging::AbstractFrameHelper" alt="" coords="5,5,205,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="StreamPlaylist" name="StreamPlaylist">
+<area shape="rect" id="node2" href="$class_std_playlist.html" title="The StdPlaylist class. " alt="" coords="103,229,189,256"/>
+<area shape="rect" id="node3" href="$class_abstract_playlist.html" title="The Playlist class. " alt="" coords="89,155,203,181"/>
+<area shape="rect" id="node4" href="$class_playlist_d_b_interface.html" title="The PlaylistDBInterface class. " alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node6" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="164,80,275,107"/>
+</map>

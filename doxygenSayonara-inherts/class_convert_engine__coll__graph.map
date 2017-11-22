@@ -1,0 +1,10 @@
+<map id="ConvertEngine" name="ConvertEngine">
+<area shape="rect" id="node2" href="$class_engine.html" title="The Engine class. " alt="" coords="147,260,210,287"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="45,81,115,108"/>
+<area shape="rect" id="node11" href="$class_abstract_pipeline.html" title="The AbstractPipeline class. " alt="" coords="5,260,123,287"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="25,171,135,197"/>
+<area shape="rect" id="node6" href="$class_meta_data.html" title="The MetaData class. " alt="" coords="230,171,309,197"/>
+<area shape="rect" id="node7" href="$class_library_item.html" title="The LibraryItem class. " alt="" coords="362,81,449,108"/>
+<area shape="rect" id="node8" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; Genre \&gt;" alt="" coords="211,81,338,108"/>
+<area shape="rect" id="node10" href="$class_convert_pipeline.html" title="ConvertPipeline" alt="" coords="21,349,136,376"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="SayonaraSelectionView" name="SayonaraSelectionView">
+<area shape="rect" id="node2" href="$class_search_view_functionality.html" title="The SearchViewInterface class. " alt="" coords="213,159,380,186"/>
+<area shape="rect" id="node3" href="$class_search_view_interface.html" title="SearchViewInterface\l\&lt; AbstractView \&gt;" alt="" coords="428,152,571,193"/>
+<area shape="rect" id="node4" href="$class_directory_tree_view.html" title="DirectoryTreeView\&lt;\l QTreeView \&gt;" alt="" coords="642,5,781,47"/>
+<area shape="rect" id="node5" href="$class_file_list_view.html" title="FileListView\&lt; QListView \&gt;" alt="" coords="623,71,800,98"/>
+<area shape="rect" id="node6" href="$class_library_date_search_view.html" title="LibraryDateSearchView\l\&lt; QListView \&gt;" alt="" coords="632,123,791,164"/>
+<area shape="rect" id="node7" href="$class_library_view.html" title="LibraryView\&lt; QTableView \&gt;" alt="" coords="619,189,804,215"/>
+<area shape="rect" id="node11" href="$class_playlist_view.html" title="PlaylistView\&lt; QListView \&gt;" alt="" coords="622,239,801,266"/>
+<area shape="rect" id="node12" href="$class_soma_f_m_station_view.html" title="SomaFMStationView\&lt;\l QTableView \&gt;" alt="" coords="635,291,788,332"/>
+<area shape="rect" id="node8" href="$class_album_cover_view.html" title="AlbumCoverView" alt="" coords="852,163,975,190"/>
+<area shape="rect" id="node9" href="$class_library_table_view.html" title="LibraryTableView" alt="" coords="852,214,975,241"/>
+<area shape="rect" id="node10" href="$class_library_view_album.html" title="LibraryViewAlbum" alt="" coords="1023,214,1149,241"/>
+</map>

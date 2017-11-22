@@ -1,0 +1,28 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Plugins/Engine/Equalizer/GUI_Equalizer.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Plugins/Engine/Equalizer/GUI_Equalizer.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___equalizer_8h.html" title="GUI_Equalizer.h" alt="" coords="1496,131,1615,158"/>
+<area shape="rect" id="node10" href="$_eq_slider_8h.html" title="EqSlider.h" alt="" coords="2018,221,2101,247"/>
+<area shape="rect" id="node14" href="$_equalizer_presets_8h.html" title="Helper/EqualizerPresets.h" alt="" coords="1297,131,1472,158"/>
+<area shape="rect" id="node16" href="$_settings_8h.html" title="Helper/Settings/Settings.h" alt="" coords="901,131,1076,158"/>
+<area shape="rect" id="node24" href="$_language_8h.html" title="Helper/Language.h" alt="" coords="335,131,466,158"/>
+<area shape="rect" id="node25" href="$_engine_handler_8h.html" title="Components/Engine/Engine\lHandler.h" alt="" coords="613,213,797,255"/>
+<area shape="rect" id="node32" href="$_combo_box_delegate_8h.html" title="GUI/Helper/Delegates\l/ComboBoxDelegate.h" alt="" coords="3914,124,4069,165"/>
+<area shape="rect" id="node34" href="$ui___g_u_i___equalizer_8h.html" title="GUI/Plugins/Engine\l/ui_GUI_Equalizer.h" alt="" coords="3046,124,3185,165"/>
+<area shape="rect" id="node3" href="$_player_plugin_8h.html" title="Interfaces/PlayerPlugin\l/PlayerPlugin.h" alt="" coords="1590,213,1747,255"/>
+<area shape="rect" id="node4" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="1356,310,1464,337"/>
+<area shape="rect" id="node5" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="1763,303,1951,344"/>
+<area shape="rect" id="node6" href="$_shortcut_widget_8h.html" title="GUI/Helper/Shortcuts\l/ShortcutWidget.h" alt="" coords="1591,303,1739,344"/>
+<area shape="rect" id="node11" href="$_sayonara_slider_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraSlider.h" alt="" coords="2309,303,2497,344"/>
+<area shape="rect" id="node17" href="$_setting_8h.html" title="Helper/Settings/Setting.h" alt="" coords="995,221,1163,247"/>
+<area shape="rect" id="node20" href="$_setting_notifier_8h.html" title="Helper/Settings/SettingNotifier.h" alt="" coords="146,221,357,247"/>
+<area shape="rect" id="node23" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="289,310,419,337"/>
+<area shape="rect" id="node18" href="$_setting_key_8h.html" title="Helper/Settings/SettingKey.h" alt="" coords="841,310,1032,337"/>
+<area shape="rect" id="node19" href="$_setting_converter_8h.html" title="Helper/Settings/SettingConverter.h" alt="" coords="1056,310,1281,337"/>
+<area shape="rect" id="node22" href="$_abstr_setting_notifier_8h.html" title="Helper/Settings/AbstrSetting\lNotifier.h" alt="" coords="25,303,213,344"/>
+<area shape="rect" id="node26" href="$_abstract_engine_8h.html" title="AbstractEngine.h" alt="" coords="643,310,766,337"/>
+<area shape="rect" id="node30" href="$_play_state_8h.html" title="Components/PlayManager\l/PlayState.h" alt="" coords="443,303,619,344"/>
+<area shape="rect" id="node27" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="2114,392,2285,433"/>
+<area shape="rect" id="node28" href="$_meta_data_8h.html" title="Helper/MetaData/MetaData.h" alt="" coords="728,399,921,426"/>
+<area shape="rect" id="node35" href="$_menu_tool_8h.html" title="GUI/Helper/MenuTool\l/MenuTool.h" alt="" coords="2125,213,2274,255"/>
+<area shape="rect" id="node36" href="$_menu_button_8h.html" title="MenuButton.h" alt="" coords="2521,310,2624,337"/>
+<area shape="rect" id="node37" href="$_context_menu_8h.html" title="GUI/Helper/ContextMenu\l/ContextMenu.h" alt="" coords="2114,303,2285,344"/>
+</map>

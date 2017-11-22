@@ -1,0 +1,3 @@
+<map id="RawSoundReceiverInterface" name="RawSoundReceiverInterface">
+<area shape="rect" id="node2" href="$class_stream_writer.html" title="The StreamWriter class. This class is the interface between StreamDataSender and StreamServer. It watches the client socket and spreads data to its client. " alt="" coords="51,80,149,107"/>
+</map>

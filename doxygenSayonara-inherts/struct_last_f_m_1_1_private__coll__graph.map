@@ -1,0 +1,10 @@
+<map id="LastFM::Private" name="LastFM::Private">
+<area shape="rect" id="node2" href="$class_meta_data.html" title="The MetaData class. " alt="" coords="140,284,219,311"/>
+<area shape="rect" id="node3" href="$class_library_item.html" title="The LibraryItem class. " alt="" coords="5,183,92,209"/>
+<area shape="rect" id="node4" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; Genre \&gt;" alt="" coords="116,183,243,209"/>
+<area shape="rect" id="node6" href="$class_l_f_m_track_changed_thread.html" title="LFMTrackChangedThread" alt="" coords="221,132,394,159"/>
+<area shape="rect" id="node8" href="$class_play_manager.html" title="Global handler for current playback state (Singleton) " alt="" coords="385,284,483,311"/>
+<area shape="rect" id="node10" href="$class_settings.html" title="The Settings class. " alt="" coords="477,81,548,108"/>
+<area shape="rect" id="node11" href="$class_l_f_m_login_thread.html" title="LFMLoginThread" alt="" coords="539,233,657,260"/>
+<area shape="rect" id="node9" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="472,183,583,209"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Ui_GUI_Bookmarks" name="Ui_GUI_Bookmarks">
+<area shape="rect" id="node2" href="$class_menu_tool_button.html" title="This is the little button you often see near comboboxes It opens up a menu when clicked. The actions in the menu a configurable. " alt="" coords="37,323,154,349"/>
+<area shape="rect" id="node3" href="$class_menu_button.html" title="The MenuButton class. A button that sends a signal when clicked. &#160;This Class is meant for inheritance..." alt="" coords="49,247,141,273"/>
+<area shape="rect" id="node5" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="129,171,240,197"/>
+<area shape="rect" id="node6" href="$class_settings.html" title="The Settings class. " alt="" coords="149,81,220,108"/>
+</map>

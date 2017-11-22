@@ -1,0 +1,5 @@
+<map id="Ui_GUI_PlayerPlugin" name="Ui_GUI_PlayerPlugin">
+<area shape="rect" id="node2" href="$class_plugin_close_button.html" title="The MenuButton class. A button that sends a signal when clicked. &#160;This Class is meant for inheritance..." alt="" coords="30,247,161,273"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="129,171,240,197"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="149,81,220,108"/>
+</map>

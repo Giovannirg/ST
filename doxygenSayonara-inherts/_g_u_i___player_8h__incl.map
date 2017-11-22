@@ -1,0 +1,23 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Player/GUI_Player.h" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Player/GUI_Player.h">
+<area shape="rect" id="node2" href="$ui___g_u_i___player_8h.html" title="GUI/Player/ui_GUI_Player.h" alt="" coords="2464,131,2651,158"/>
+<area shape="rect" id="node34" href="$_play_state_8h.html" title="Components/PlayManager\l/PlayState.h" alt="" coords="663,303,839,344"/>
+<area shape="rect" id="node38" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="3726,303,3914,344"/>
+<area shape="rect" id="node42" href="$_meta_data_8h.html" title="Helper/MetaData/MetaData.h" alt="" coords="534,131,727,158"/>
+<area shape="rect" id="node48" href="$_global_message_receiver_interface_8h.html" title="Helper/Message/GlobalMessage\lReceiverInterface.h" alt="" coords="5,213,216,255"/>
+<area shape="rect" id="node49" href="$_shortcut_widget_8h.html" title="GUI/Helper/Shortcuts\l/ShortcutWidget.h" alt="" coords="3858,124,4006,165"/>
+<area shape="rect" id="node21" href="$_cover_button_8h.html" title="GUI/Covers/CoverButton.h" alt="" coords="2769,221,2949,247"/>
+<area shape="rect" id="node24" href="$_sayonara_loading_bar_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraLoadingBar.h" alt="" coords="2973,213,3161,255"/>
+<area shape="rect" id="node26" href="$_search_slider_8h.html" title="GUI/Player/SearchSlider.h" alt="" coords="3185,221,3361,247"/>
+<area shape="rect" id="node28" href="$_g_u_i___playlist_8h.html" title="GUI/Playlist/GUI_Playlist.h" alt="" coords="1015,221,1198,247"/>
+<area shape="rect" id="node37" href="$_g_u_i___player_plugin_8h.html" title="GUI/Plugins/Generic\l/GUI_PlayerPlugin.h" alt="" coords="3639,213,3782,255"/>
+<area shape="rect" id="node23" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="2893,310,3001,337"/>
+<area shape="rect" id="node27" href="$_sayonara_slider_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraSlider.h" alt="" coords="3173,303,3361,344"/>
+<area shape="rect" id="node29" href="$ui___g_u_i___playlist_8h.html" title="GUI/Playlist/ui_GUI\l_Playlist.h" alt="" coords="2555,303,2693,344"/>
+<area shape="rect" id="node30" href="$_global_message_8h.html" title="Helper/Message/GlobalMessage.h" alt="" coords="407,310,630,337"/>
+<area shape="rect" id="node31" href="$_library_namespaces_8h.html" title="Helper/Library/LibraryNamespaces.h" alt="" coords="1015,310,1249,337"/>
+<area shape="rect" id="node33" href="$_set_fwd_8h.html" title="Helper/SetFwd.h" alt="" coords="1273,310,1393,337"/>
+<area shape="rect" id="node35" href="$_playlist_d_b_interface_8h.html" title="Components/Playlist\l/PlaylistDBInterface.h" alt="" coords="1418,303,1569,344"/>
+<area shape="rect" id="node39" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="3842,392,4025,419"/>
+<area shape="rect" id="node43" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="241,221,442,247"/>
+<area shape="rect" id="node45" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="466,221,561,247"/>
+</map>

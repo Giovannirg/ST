@@ -1,0 +1,6 @@
+<map id="AlbumCoverView::Private" name="AlbumCoverView::Private">
+<area shape="rect" id="node2" href="$class_album_cover_model.html" title="AlbumCoverModel" alt="" coords="108,233,237,260"/>
+<area shape="rect" id="node3" href="$class_library_item_model.html" title="LibraryItemModel" alt="" coords="111,157,234,184"/>
+<area shape="rect" id="node4" href="$class_search_model_interface.html" title="AbstractSearchTableModel" alt="" coords="83,81,262,108"/>
+<area shape="rect" id="node5" href="$class_search_model_functionality.html" title="SearchModelFunctionality" alt="" coords="5,5,177,32"/>
+</map>

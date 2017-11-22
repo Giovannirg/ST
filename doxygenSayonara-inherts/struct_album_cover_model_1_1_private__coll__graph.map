@@ -1,0 +1,5 @@
+<map id="AlbumCoverModel::Private" name="AlbumCoverModel::Private">
+<area shape="rect" id="node2" href="$class_album_cover_fetch_thread.html" title="This class organizes requests for new Covers for the AlbumCoverView. When looking for covers..." alt="" coords="5,81,172,108"/>
+<area shape="rect" id="node4" href="$class_album_list.html" title="The AlbumList class. " alt="" coords="195,81,275,108"/>
+<area shape="rect" id="node5" href="$class_q_list.html" title="QList\&lt; Album \&gt;" alt="" coords="178,5,293,32"/>
+</map>

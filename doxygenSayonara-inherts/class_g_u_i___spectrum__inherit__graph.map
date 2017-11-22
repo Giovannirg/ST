@@ -1,0 +1,9 @@
+<map id="GUI_Spectrum" name="GUI_Spectrum">
+<area shape="rect" id="node2" href="$class_engine_plugin.html" title="EnginePlugin" alt="" coords="119,319,218,345"/>
+<area shape="rect" id="node3" href="$class_player_plugin_interface.html" title="Interface for PlayerPlugin classes. get_name() and language_changed() must be overwritten. " alt="" coords="95,244,242,271"/>
+<area shape="rect" id="node4" href="$class_sayonara_widget.html" title="Widget with Settings connection. Also contains triggers for language_changed() and skin_changed() &#160;wi..." alt="" coords="40,169,159,196"/>
+<area shape="rect" id="node5" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QWidget \&gt;" alt="" coords="13,80,185,121"/>
+<area shape="rect" id="node7" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="103,5,213,32"/>
+<area shape="rect" id="node8" href="$class_shortcut_widget.html" title="Interface that should be implemented when using configurable shortcuts. " alt="" coords="182,169,294,196"/>
+<area shape="rect" id="node9" href="$class_spectrum_receiver.html" title="The SpectrumReceiver class. " alt="" coords="242,319,373,345"/>
+</map>

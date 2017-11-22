@@ -1,0 +1,19 @@
+<map id="Ui_GUI_LocalLibrary" name="Ui_GUI_LocalLibrary">
+<area shape="rect" id="node2" href="$class_library_date_search_view.html" title="LibraryDateSearchView" alt="" coords="949,104,1108,131"/>
+<area shape="rect" id="node3" href="$class_search_view_interface.html" title="SearchableListView" alt="" coords="516,107,653,133"/>
+<area shape="rect" id="node16" href="$class_search_view_interface.html" title="SearchableTableView" alt="" coords="511,208,659,235"/>
+<area shape="rect" id="node5" href="$class_search_view_functionality.html" title="The SearchViewInterface class. " alt="" coords="233,187,399,213"/>
+<area shape="rect" id="node6" href="$class_sayonara_selection_view.html" title="The SayonaraSelectionView class. " alt="" coords="11,187,171,213"/>
+<area shape="rect" id="node7" href="$class_library_genre_view.html" title="LibraryGenreView" alt="" coords="1279,41,1404,68"/>
+<area shape="rect" id="node8" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QTreeWidget \&gt;" alt="" coords="753,33,925,74"/>
+<area shape="rect" id="node10" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="529,56,640,83"/>
+<area shape="rect" id="node15" href="$class_library_view.html" title="LibraryView" alt="" coords="794,208,885,235"/>
+<area shape="rect" id="node11" href="$class_settings.html" title="The Settings class. " alt="" coords="281,56,351,83"/>
+<area shape="rect" id="node13" href="$class_library_view_album.html" title="LibraryViewAlbum" alt="" coords="1428,153,1555,180"/>
+<area shape="rect" id="node14" href="$class_library_table_view.html" title="LibraryTableView" alt="" coords="1132,208,1255,235"/>
+<area shape="rect" id="node17" href="$class_info_dialog_container.html" title="An interface used to abstract the usage of the info dialog. An implementing class has to return the i..." alt="" coords="516,157,653,184"/>
+<area shape="rect" id="node18" href="$class_dragable.html" title="The Dragable class. " alt="" coords="547,259,622,285"/>
+<area shape="rect" id="node19" href="$class_library_item_model.html" title="LibraryItemModel" alt="" coords="523,309,646,336"/>
+<area shape="rect" id="node20" href="$class_search_model_interface.html" title="AbstractSearchTableModel" alt="" coords="227,309,405,336"/>
+<area shape="rect" id="node21" href="$class_search_model_functionality.html" title="SearchModelFunctionality" alt="" coords="5,284,177,311"/>
+</map>

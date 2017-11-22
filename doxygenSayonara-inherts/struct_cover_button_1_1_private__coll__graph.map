@@ -1,0 +1,10 @@
+<map id="CoverButton::Private" name="CoverButton::Private">
+<area shape="rect" id="node2" href="$class_cover_location.html" title="The CoverLocation class. " alt="" coords="5,439,112,465"/>
+<area shape="rect" id="node3" href="$class_g_u_i___alternative_covers.html" title="GUI_AlternativeCovers" alt="" coords="145,439,303,465"/>
+<area shape="rect" id="node4" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="167,363,281,389"/>
+<area shape="rect" id="node5" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="138,272,310,313"/>
+<area shape="rect" id="node7" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="169,171,279,197"/>
+<area shape="rect" id="node8" href="$class_settings.html" title="The Settings class. " alt="" coords="189,81,259,108"/>
+<area shape="rect" id="node11" href="$class_abstract_cover_lookup.html" title="The CoverLookupInterface class. " alt="" coords="283,81,431,108"/>
+<area shape="rect" id="node10" href="$class_cover_lookup.html" title="The CoverLookup class. " alt="" coords="307,221,405,248"/>
+</map>

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['sayonara_5finstall_5fbin_5fpath',['SAYONARA_INSTALL_BIN_PATH',['../_macros_8h.html#ac5d321cb061e9ed4849e860ed7c06529',1,'Macros.h']]],
+  ['sayonara_5finstall_5flib_5fpath',['SAYONARA_INSTALL_LIB_PATH',['../_macros_8h.html#ab280f44bf47c68eb4148a661ed7e73a4',1,'Macros.h']]],
+  ['sayonara_5finstall_5fpath',['SAYONARA_INSTALL_PATH',['../_macros_8h.html#ad3cdf95a4175230074e010095dc293f7',1,'Macros.h']]],
+  ['sayonara_5finstall_5fshare_5fpath',['SAYONARA_INSTALL_SHARE_PATH',['../_macros_8h.html#ad0af3b8932fd546d38dc7fbd53fd5ea8',1,'Macros.h']]],
+  ['sayonara_5forange_5fcol',['SAYONARA_ORANGE_COL',['../globals_8h.html#a94790aed2e2f6fa76bdb4eb4648c85f1',1,'globals.h']]],
+  ['sayonara_5forange_5fstr',['SAYONARA_ORANGE_STR',['../globals_8h.html#a64275f18542b965df42252937140e195',1,'globals.h']]],
+  ['sayonara_5fpimpl_5fh_5f',['SAYONARA_PIMPL_H_',['../_pimpl_8h.html#acd6725a5ac11cc6dee03db774f08ce27',1,'Pimpl.h']]],
+  ['sayonara_5fsetting_5fh_5f',['SAYONARA_SETTING_H_',['../_setting_8h.html#a826fdeb86792f6490f16bc566127ffd5',1,'Setting.h']]],
+  ['sayonara_5fsettings_5fh_5f',['SAYONARA_SETTINGS_H_',['../_settings_8h.html#a48c1e0358db3f3399765c829937ae560',1,'Settings.h']]],
+  ['sayonara_5fsingleton_5fh',['SAYONARA_SINGLETON_H',['../_singleton_8h.html#ab01e4de229384ca3890da8e91a6fa06f',1,'Singleton.h']]],
+  ['sayonara_5fversion',['SAYONARA_VERSION',['../_macros_8h.html#a5c496efeca633ca5a374ed1e44292c39',1,'Macros.h']]],
+  ['singleton',['SINGLETON',['../_singleton_8h.html#ad572f08aac782bd08006915e06764e4a',1,'Singleton.h']]],
+  ['singleton_5fqobject',['SINGLETON_QOBJECT',['../_singleton_8h.html#a5757d5e861d445c20aa318772319dcc3',1,'Singleton.h']]],
+  ['spinbox_5fvalue_5fchanged_5fint',['spinbox_value_changed_int',['../_sayonara_widget_template_8h.html#a5d455211c1b1d5b376082acd6a1dbaad',1,'SayonaraWidgetTemplate.h']]],
+  ['stringify',['STRINGIFY',['../_c_make_c_compiler_id_8c.html#a43e1cad902b6477bec893cb6430bd6c8',1,'STRINGIFY():&#160;CMakeCCompilerId.c'],['../_c_make_c_x_x_compiler_id_8cpp.html#a43e1cad902b6477bec893cb6430bd6c8',1,'STRINGIFY():&#160;CMakeCXXCompilerId.cpp']]],
+  ['stringify_5fhelper',['STRINGIFY_HELPER',['../_c_make_c_compiler_id_8c.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'STRINGIFY_HELPER():&#160;CMakeCCompilerId.c'],['../_c_make_c_x_x_compiler_id_8cpp.html#a2ae9b72bb13abaabfcf2ee0ba7d3fa1d',1,'STRINGIFY_HELPER():&#160;CMakeCXXCompilerId.cpp']]]
+];

@@ -1,0 +1,11 @@
+<map id="LibraryDatabase" name="LibraryDatabase">
+<area shape="rect" id="node10" href="$class_database_connector.html" title="DatabaseConnector" alt="" coords="217,229,355,256"/>
+<area shape="rect" id="node11" href="$class_soundcloud_data.html" title="SoundcloudData" alt="" coords="380,229,499,256"/>
+<area shape="rect" id="node2" href="$class_abstract_database.html" title="AbstractDatabase" alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node4" href="$class_database_albums.html" title="DatabaseAlbums" alt="" coords="157,80,279,107"/>
+<area shape="rect" id="node5" href="$class_database_module.html" title="DatabaseModule" alt="" coords="443,5,563,32"/>
+<area shape="rect" id="node7" href="$class_database_artists.html" title="DatabaseArtists" alt="" coords="304,80,420,107"/>
+<area shape="rect" id="node8" href="$class_database_tracks.html" title="DatabaseTracks" alt="" coords="444,80,563,107"/>
+<area shape="rect" id="node9" href="$class_database_library.html" title="DatabaseLibrary" alt="" coords="586,80,703,107"/>
+<area shape="rect" id="node6" href="$class_database_search_mode.html" title="DatabaseSearchMode" alt="" coords="268,5,419,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GUI_PlaylistBottomBar::Private" name="GUI_PlaylistBottomBar::Private">
+<area shape="rect" id="node2" href="$class_playlist_menu.html" title="PlaylistMenu" alt="" coords="5,247,103,273"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="95,171,205,197"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="115,81,185,108"/>
+<area shape="rect" id="node7" href="$class_playlist_1_1_mode.html" title="The Mode class. " alt="" coords="127,247,232,273"/>
+</map>

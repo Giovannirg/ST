@@ -1,0 +1,33 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/src/GUI/Plugins/Engine/say_gui_plugin_engine_automoc.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/src/GUI/Plugins/Engine/say_gui_plugin_engine_automoc.cpp">
+<area shape="rect" id="node2" href="$moc___g_u_i___audio_converter_8cpp.html" title="moc_GUI_AudioConverter.cpp" alt="" coords="17,124,217,151"/>
+<area shape="rect" id="node13" href="$moc___g_u_i___crossfader_8cpp.html" title="moc_GUI_Crossfader.cpp" alt="" coords="413,124,587,151"/>
+<area shape="rect" id="node15" href="$moc___engine_color_style_chooser_8cpp.html" title="moc_EngineColorStyleChooser.cpp" alt="" coords="1551,124,1780,151"/>
+<area shape="rect" id="node24" href="$moc___engine_plugin_8cpp.html" title="moc_EnginePlugin.cpp" alt="" coords="824,124,979,151"/>
+<area shape="rect" id="node33" href="$moc___eq_slider_8cpp.html" title="moc_EqSlider.cpp" alt="" coords="1399,124,1527,151"/>
+<area shape="rect" id="node38" href="$moc___g_u_i___equalizer_8cpp.html" title="moc_GUI_Equalizer.cpp" alt="" coords="1210,124,1374,151"/>
+<area shape="rect" id="node42" href="$moc___g_u_i___level_painter_8cpp.html" title="moc_GUI_LevelPainter.cpp" alt="" coords="1003,124,1186,151"/>
+<area shape="rect" id="node45" href="$moc___g_u_i___spectrum_8cpp.html" title="moc_GUI_Spectrum.cpp" alt="" coords="1805,124,1971,151"/>
+<area shape="rect" id="node48" href="$moc___g_u_i___style_settings_8cpp.html" title="moc_GUI_StyleSettings.cpp" alt="" coords="611,124,799,151"/>
+<area shape="rect" id="node49" href="$moc___g_u_i___speed_8cpp.html" title="moc_GUI_Speed.cpp" alt="" coords="241,124,388,151"/>
+<area shape="rect" id="node3" href="$_g_u_i___audio_converter_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/AudioConverter\l/GUI_AudioConverter.h" alt="" coords="5,317,240,388"/>
+<area shape="rect" id="node4" href="$_player_plugin_8h.html" title="Interfaces/PlayerPlugin\l/PlayerPlugin.h" alt="" coords="409,451,567,492"/>
+<area shape="rect" id="node8" href="$_playlist_mode_8h.html" title="Helper/Playlist/Playlist\lMode.h" alt="" coords="15,451,169,492"/>
+<area shape="rect" id="node9" href="$_play_state_8h.html" title="Components/PlayManager\l/PlayState.h" alt="" coords="193,451,369,492"/>
+<area shape="rect" id="node5" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="411,562,519,589"/>
+<area shape="rect" id="node6" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="543,555,731,596"/>
+<area shape="rect" id="node7" href="$_shortcut_widget_8h.html" title="GUI/Helper/Shortcuts\l/ShortcutWidget.h" alt="" coords="239,555,387,596"/>
+<area shape="rect" id="node14" href="$_g_u_i___crossfader_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/Crossfader\l/GUI_Crossfader.h" alt="" coords="389,317,598,388"/>
+<area shape="rect" id="node16" href="$_engine_color_style_chooser_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/EngineColor\lStyleChooser.h" alt="" coords="1561,436,1777,507"/>
+<area shape="rect" id="node21" href="$_style_types_8h.html" title="StyleTypes.h" alt="" coords="1284,562,1383,589"/>
+<area shape="rect" id="node25" href="$_engine_plugin_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/EnginePlugin.h" alt="" coords="719,325,951,381"/>
+<area shape="rect" id="node26" href="$_g_u_i___style_settings_8h.html" title="GUI_StyleSettings.h" alt="" coords="673,458,815,485"/>
+<area shape="rect" id="node27" href="$ui___g_u_i___style_8h.html" title="GUI/Plugins/Engine\l/ui_GUI_Style.h" alt="" coords="755,555,893,596"/>
+<area shape="rect" id="node30" href="$_sayonara_dialog_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraDialog.h" alt="" coords="917,555,1105,596"/>
+<area shape="rect" id="node34" href="$_eq_slider_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/Equalizer\l/EqSlider.h" alt="" coords="1539,199,1738,269"/>
+<area shape="rect" id="node35" href="$_sayonara_slider_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraSlider.h" alt="" coords="1558,332,1746,373"/>
+<area shape="rect" id="node39" href="$_g_u_i___equalizer_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/Equalizer\l/GUI_Equalizer.h" alt="" coords="975,317,1174,388"/>
+<area shape="rect" id="node43" href="$_g_u_i___level_painter_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/GUI\l_LevelPainter.h" alt="" coords="1101,199,1270,269"/>
+<area shape="rect" id="node44" href="$_sound_out_receiver_8h.html" title="Components/Engine/Playback\l/SoundOutReceiver.h" alt="" coords="1198,332,1397,373"/>
+<area shape="rect" id="node46" href="$_g_u_i___spectrum_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/GUI\l_Spectrum.h" alt="" coords="1346,199,1515,269"/>
+<area shape="rect" id="node50" href="$_g_u_i___speed_8h.html" title="../../../../sayonara\l&#45;player&#45;read&#45;only/src\l/GUI/Plugins/Engine/Speed\l/GUI_Speed.h" alt="" coords="233,199,415,269"/>
+</map>

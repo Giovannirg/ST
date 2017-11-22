@@ -1,0 +1,19 @@
+<map id="PlayerPluginInterface" name="PlayerPluginInterface">
+<area shape="rect" id="node7" href="$class_engine_plugin.html" title="EnginePlugin" alt="" coords="769,56,867,83"/>
+<area shape="rect" id="node10" href="$class_g_u_i___abstract_stream.html" title="GUI_AbstractStream" alt="" coords="746,107,890,133"/>
+<area shape="rect" id="node13" href="$class_g_u_i___audio_converter.html" title="GUI_AudioConverter" alt="" coords="747,157,889,184"/>
+<area shape="rect" id="node14" href="$class_g_u_i___bookmarks.html" title="The GUI_Bookmarks class. " alt="" coords="759,208,877,235"/>
+<area shape="rect" id="node15" href="$class_g_u_i___broadcast.html" title="GUI_Broadcast" alt="" coords="762,259,874,285"/>
+<area shape="rect" id="node16" href="$class_g_u_i___crossfader.html" title="GUI_Crossfader" alt="" coords="759,309,877,336"/>
+<area shape="rect" id="node17" href="$class_g_u_i___equalizer.html" title="The GUI_Equalizer class. " alt="" coords="765,360,871,387"/>
+<area shape="rect" id="node18" href="$class_g_u_i___playlist_chooser.html" title="GUI_PlaylistChooser" alt="" coords="745,411,891,437"/>
+<area shape="rect" id="node19" href="$class_g_u_i___speed.html" title="GUI_Speed" alt="" coords="773,461,863,488"/>
+<area shape="rect" id="node2" href="$class_sayonara_widget.html" title="Widget with Settings connection. Also contains triggers for language_changed() and skin_changed() &#160;wi..." alt="" coords="384,233,503,260"/>
+<area shape="rect" id="node3" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QWidget \&gt;" alt="" coords="164,226,336,267"/>
+<area shape="rect" id="node5" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="5,259,116,285"/>
+<area shape="rect" id="node6" href="$class_shortcut_widget.html" title="Interface that should be implemented when using configurable shortcuts. " alt="" coords="387,284,499,311"/>
+<area shape="rect" id="node8" href="$class_g_u_i___level_painter.html" title="GUI_LevelPainter" alt="" coords="939,5,1064,32"/>
+<area shape="rect" id="node9" href="$class_g_u_i___spectrum.html" title="GUI_Spectrum" alt="" coords="947,56,1056,83"/>
+<area shape="rect" id="node11" href="$class_g_u_i___podcasts.html" title="GUI_Podcasts" alt="" coords="947,107,1055,133"/>
+<area shape="rect" id="node12" href="$class_g_u_i___stream.html" title="GUI_Stream" alt="" coords="954,157,1049,184"/>
+</map>

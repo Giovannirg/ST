@@ -1,0 +1,13 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/src/GUI/Plugins/Engine/ui_GUI_Equalizer.h" name="/home/leonard/Schreibtisch/SW/Projekt/src/GUI/Plugins/Engine/ui_GUI_Equalizer.h">
+<area shape="rect" id="node2" href="$_menu_tool_8h.html" title="GUI/Helper/MenuTool\l/MenuTool.h" alt="" coords="252,199,401,240"/>
+<area shape="rect" id="node23" href="$_eq_slider_8h.html" title="GUI/Plugins/Engine\l/Equalizer/EqSlider.h" alt="" coords="3177,109,3321,151"/>
+<area shape="rect" id="node27" href="$_player_plugin_8h.html" title="Interfaces/PlayerPlugin\l/PlayerPlugin.h" alt="" coords="669,109,827,151"/>
+<area shape="rect" id="node3" href="$_menu_button_8h.html" title="MenuButton.h" alt="" coords="275,295,378,322"/>
+<area shape="rect" id="node6" href="$_context_menu_8h.html" title="GUI/Helper/ContextMenu\l/ContextMenu.h" alt="" coords="80,288,251,329"/>
+<area shape="rect" id="node5" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="401,377,572,419"/>
+<area shape="rect" id="node24" href="$_sayonara_slider_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraSlider.h" alt="" coords="3081,199,3269,240"/>
+<area shape="rect" id="node28" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="781,206,889,233"/>
+<area shape="rect" id="node30" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="569,199,757,240"/>
+<area shape="rect" id="node34" href="$_shortcut_widget_8h.html" title="GUI/Helper/Shortcuts\l/ShortcutWidget.h" alt="" coords="913,199,1061,240"/>
+<area shape="rect" id="node31" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="402,295,585,322"/>
+</map>

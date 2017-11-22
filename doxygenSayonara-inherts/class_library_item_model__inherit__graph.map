@@ -1,0 +1,8 @@
+<map id="LibraryItemModel" name="LibraryItemModel">
+<area shape="rect" id="node5" href="$class_album_cover_model.html" title="AlbumCoverModel" alt="" coords="641,5,771,32"/>
+<area shape="rect" id="node6" href="$class_library_item_model_albums.html" title="LibraryItemModelAlbums" alt="" coords="623,56,789,83"/>
+<area shape="rect" id="node7" href="$class_library_item_model_artists.html" title="LibraryItemModelArtists" alt="" coords="626,107,786,133"/>
+<area shape="rect" id="node8" href="$class_library_item_model_tracks.html" title="LibraryItemModelTracks" alt="" coords="625,157,787,184"/>
+<area shape="rect" id="node2" href="$class_search_model_interface.html" title="AbstractSearchTableModel" alt="" coords="225,81,404,108"/>
+<area shape="rect" id="node3" href="$class_search_model_functionality.html" title="SearchModelFunctionality" alt="" coords="5,56,177,83"/>
+</map>

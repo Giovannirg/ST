@@ -1,0 +1,10 @@
+<map id="Ui_Playlist_Window" name="Ui_Playlist_Window">
+<area shape="rect" id="node2" href="$class_playlist_tab_widget.html" title="PlaylistTabWidget" alt="" coords="5,503,133,529"/>
+<area shape="rect" id="node4" href="$class_g_u_i___playlist_bottom_bar.html" title="GUI_PlaylistBottomBar" alt="" coords="158,503,317,529"/>
+<area shape="rect" id="node5" href="$class_sayonara_widget.html" title="Widget with Settings connection. Also contains triggers for language_changed() and skin_changed() &#160;wi..." alt="" coords="178,427,297,453"/>
+<area shape="rect" id="node6" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QWidget \&gt;" alt="" coords="63,247,235,288"/>
+<area shape="rect" id="node8" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="193,171,303,197"/>
+<area shape="rect" id="node12" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="259,247,431,288"/>
+<area shape="rect" id="node9" href="$class_settings.html" title="The Settings class. " alt="" coords="213,81,283,108"/>
+<area shape="rect" id="node11" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="249,337,364,364"/>
+</map>

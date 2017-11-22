@@ -1,0 +1,24 @@
+<map id="Bookmarks::Private" name="Bookmarks::Private">
+<area shape="rect" id="node2" href="$class_meta_data.html" title="The MetaData class. " alt="" coords="781,56,859,83"/>
+<area shape="rect" id="node3" href="$class_library_item.html" title="The LibraryItem class. " alt="" coords="548,56,635,83"/>
+<area shape="rect" id="node4" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; Genre \&gt;" alt="" coords="528,5,655,32"/>
+<area shape="rect" id="node6" href="$class_play_manager.html" title="Global handler for current playback state (Singleton) " alt="" coords="771,143,869,169"/>
+<area shape="rect" id="node9" href="$class_settings.html" title="The Settings class. " alt="" coords="233,107,304,133"/>
+<area shape="rect" id="node13" href="$class_abstract_database.html" title="AbstractDatabase" alt="" coords="205,208,332,235"/>
+<area shape="rect" id="node8" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="536,107,647,133"/>
+<area shape="rect" id="node10" href="$class_q_list.html" title="QList\&lt; Bookmark \&gt;" alt="" coords="752,193,888,220"/>
+<area shape="rect" id="node11" href="$class_database_connector.html" title="DatabaseConnector" alt="" coords="751,532,889,559"/>
+<area shape="rect" id="node12" href="$class_library_database.html" title="LibraryDatabase" alt="" coords="533,339,650,365"/>
+<area shape="rect" id="node14" href="$class_database_albums.html" title="DatabaseAlbums" alt="" coords="207,259,330,285"/>
+<area shape="rect" id="node15" href="$class_database_module.html" title="DatabaseModule" alt="" coords="21,491,141,517"/>
+<area shape="rect" id="node17" href="$class_database_artists.html" title="DatabaseArtists" alt="" coords="211,360,327,387"/>
+<area shape="rect" id="node18" href="$class_database_tracks.html" title="DatabaseTracks" alt="" coords="209,309,328,336"/>
+<area shape="rect" id="node19" href="$class_database_library.html" title="DatabaseLibrary" alt="" coords="210,411,327,437"/>
+<area shape="rect" id="node20" href="$class_database_bookmarks.html" title="DatabaseBookmarks" alt="" coords="356,613,500,640"/>
+<area shape="rect" id="node21" href="$class_database_playlist.html" title="DatabasePlaylist" alt="" coords="367,664,489,691"/>
+<area shape="rect" id="node22" href="$class_database_podcasts.html" title="DatabasePodcasts" alt="" coords="361,715,495,741"/>
+<area shape="rect" id="node23" href="$class_database_settings.html" title="DatabaseSettings" alt="" coords="365,461,491,488"/>
+<area shape="rect" id="node24" href="$class_database_streams.html" title="DatabaseStreams" alt="" coords="365,512,491,539"/>
+<area shape="rect" id="node25" href="$class_database_vis_styles.html" title="DatabaseVisStyles" alt="" coords="524,563,659,589"/>
+<area shape="rect" id="node16" href="$class_database_search_mode.html" title="DatabaseSearchMode" alt="" coords="5,269,156,296"/>
+</map>

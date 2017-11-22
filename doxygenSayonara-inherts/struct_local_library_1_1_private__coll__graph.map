@@ -1,0 +1,22 @@
+<map id="LocalLibrary::Private" name="LocalLibrary::Private">
+<area shape="rect" id="node2" href="$class_reload_thread.html" title="ReloadThread" alt="" coords="718,96,821,123"/>
+<area shape="rect" id="node7" href="$class_file_system_watcher.html" title="FileSystemWatcher" alt="" coords="701,197,838,224"/>
+<area shape="rect" id="node8" href="$class_tag_edit.html" title="The TagEdit class Metadata has to be added using the set_metadata(const MetaDataList&amp;) method..." alt="" coords="736,147,803,173"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="532,37,643,64"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="233,5,304,32"/>
+<area shape="rect" id="node11" href="$class_abstract_database.html" title="AbstractDatabase" alt="" coords="205,56,332,83"/>
+<area shape="rect" id="node9" href="$class_database_connector.html" title="DatabaseConnector" alt="" coords="700,385,839,412"/>
+<area shape="rect" id="node10" href="$class_library_database.html" title="LibraryDatabase" alt="" coords="529,201,646,228"/>
+<area shape="rect" id="node12" href="$class_database_albums.html" title="DatabaseAlbums" alt="" coords="207,157,330,184"/>
+<area shape="rect" id="node13" href="$class_database_module.html" title="DatabaseModule" alt="" coords="21,340,141,367"/>
+<area shape="rect" id="node15" href="$class_database_artists.html" title="DatabaseArtists" alt="" coords="211,208,327,235"/>
+<area shape="rect" id="node16" href="$class_database_tracks.html" title="DatabaseTracks" alt="" coords="209,107,328,133"/>
+<area shape="rect" id="node17" href="$class_database_library.html" title="DatabaseLibrary" alt="" coords="210,259,327,285"/>
+<area shape="rect" id="node18" href="$class_database_bookmarks.html" title="DatabaseBookmarks" alt="" coords="356,360,500,387"/>
+<area shape="rect" id="node19" href="$class_database_playlist.html" title="DatabasePlaylist" alt="" coords="367,411,489,437"/>
+<area shape="rect" id="node20" href="$class_database_podcasts.html" title="DatabasePodcasts" alt="" coords="361,461,495,488"/>
+<area shape="rect" id="node21" href="$class_database_settings.html" title="DatabaseSettings" alt="" coords="365,512,491,539"/>
+<area shape="rect" id="node22" href="$class_database_streams.html" title="DatabaseStreams" alt="" coords="524,563,651,589"/>
+<area shape="rect" id="node23" href="$class_database_vis_styles.html" title="DatabaseVisStyles" alt="" coords="361,309,495,336"/>
+<area shape="rect" id="node14" href="$class_database_search_mode.html" title="DatabaseSearchMode" alt="" coords="5,120,156,147"/>
+</map>

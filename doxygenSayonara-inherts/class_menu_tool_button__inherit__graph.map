@@ -1,0 +1,4 @@
+<map id="MenuToolButton" name="MenuToolButton">
+<area shape="rect" id="node2" href="$class_menu_button.html" title="The MenuButton class. A button that sends a signal when clicked. &#160;This Class is meant for inheritance..." alt="" coords="73,80,165,107"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="129,5,240,32"/>
+</map>

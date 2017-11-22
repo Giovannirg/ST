@@ -1,0 +1,25 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Plugins/Engine/GUI_StyleSettings.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Plugins/Engine/GUI_StyleSettings.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___style_settings_8h.html" title="GUI_StyleSettings.h" alt="" coords="3152,199,3295,225"/>
+<area shape="rect" id="node29" href="$_message_8h.html" title="Helper/Message/Message.h" alt="" coords="3393,199,3579,225"/>
+<area shape="rect" id="node33" href="$_database_connector_8h.html" title="Database/DatabaseConnector.h" alt="" coords="4400,124,4609,151"/>
+<area shape="rect" id="node3" href="$_style_types_8h.html" title="StyleTypes.h" alt="" coords="3174,281,3273,307"/>
+<area shape="rect" id="node8" href="$ui___g_u_i___style_8h.html" title="GUI/Plugins/Engine\l/ui_GUI_Style.h" alt="" coords="1457,273,1595,315"/>
+<area shape="rect" id="node25" href="$_sayonara_dialog_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraDialog.h" alt="" coords="2929,273,3117,315"/>
+<area shape="rect" id="node26" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="2932,363,3115,389"/>
+<area shape="rect" id="node30" href="$_global_message_8h.html" title="GlobalMessage.h" alt="" coords="3425,281,3547,307"/>
+<area shape="rect" id="node31" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="3915,363,4044,389"/>
+<area shape="rect" id="node34" href="$_library_database_8h.html" title="Database/LibraryDatabase.h" alt="" coords="4213,199,4401,225"/>
+<area shape="rect" id="node37" href="$_database_module_8h.html" title="Database/DatabaseModule.h" alt="" coords="4905,363,5096,389"/>
+<area shape="rect" id="node43" href="$_database_bookmarks_8h.html" title="Database/DatabaseBookmarks.h" alt="" coords="4217,281,4432,307"/>
+<area shape="rect" id="node44" href="$_database_playlist_8h.html" title="Database/DatabasePlaylist.h" alt="" coords="5515,199,5707,225"/>
+<area shape="rect" id="node45" href="$_database_podcasts_8h.html" title="Database/DatabasePodcasts.h" alt="" coords="4679,281,4883,307"/>
+<area shape="rect" id="node46" href="$_database_settings_8h.html" title="Database/DatabaseSettings.h" alt="" coords="5731,199,5929,225"/>
+<area shape="rect" id="node47" href="$_database_streams_8h.html" title="Database/DatabaseStreams.h" alt="" coords="4456,281,4655,307"/>
+<area shape="rect" id="node48" href="$_database_vis_styles_8h.html" title="Database/DatabaseVisStyles.h" alt="" coords="3918,199,4123,225"/>
+<area shape="rect" id="node35" href="$_abstract_database_8h.html" title="Database/AbstractDatabase.h" alt="" coords="3785,281,3984,307"/>
+<area shape="rect" id="node36" href="$_database_albums_8h.html" title="Database/DatabaseAlbums.h" alt="" coords="5119,281,5312,307"/>
+<area shape="rect" id="node38" href="$_database_artists_8h.html" title="Database/DatabaseArtists.h" alt="" coords="5337,281,5523,307"/>
+<area shape="rect" id="node39" href="$_database_tracks_8h.html" title="Database/DatabaseTracks.h" alt="" coords="3571,281,3761,307"/>
+<area shape="rect" id="node40" href="$_database_library_8h.html" title="Database/DatabaseLibrary.h" alt="" coords="4907,281,5095,307"/>
+<area shape="rect" id="node41" href="$_database_handler_8h.html" title="DatabaseHandler.h" alt="" coords="4059,281,4193,307"/>
+</map>

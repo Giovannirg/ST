@@ -1,0 +1,10 @@
+<map id="GUI_FontConfig" name="GUI_FontConfig">
+<area shape="rect" id="node2" href="$class_preference_widget_interface.html" title="Abstract Interface you should use when creating a preferences item. " alt="" coords="91,593,268,620"/>
+<area shape="rect" id="node3" href="$class_preference_interface.html" title="PreferenceInterface\l\&lt; SayonaraWidget \&gt;" alt="" coords="108,503,251,544"/>
+<area shape="rect" id="node4" href="$class_sayonara_widget.html" title="Widget with Settings connection. Also contains triggers for language_changed() and skin_changed() &#160;wi..." alt="" coords="120,427,239,453"/>
+<area shape="rect" id="node5" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QWidget \&gt;" alt="" coords="5,247,177,288"/>
+<area shape="rect" id="node7" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="135,171,245,197"/>
+<area shape="rect" id="node11" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="201,247,373,288"/>
+<area shape="rect" id="node8" href="$class_settings.html" title="The Settings class. " alt="" coords="155,81,225,108"/>
+<area shape="rect" id="node10" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="191,337,306,364"/>
+</map>

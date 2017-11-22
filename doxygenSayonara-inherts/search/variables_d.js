@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['n_5fbins_5fspectrum',['n_bins_spectrum',['../struct_raw_color_style.html#a72aa76a9318031494fc500924195027a',1,'RawColorStyle']]],
+  ['n_5fcols',['n_cols',['../struct_library_item_model_1_1_private.html#a162864b40aea201c78f07f8e10db8a57',1,'LibraryItemModel::Private']]],
+  ['n_5fcovers',['n_covers',['../struct_cover_fetch_thread_1_1_private.html#ad333a05b3d409cdf6741b20323ad762b',1,'CoverFetchThread::Private::n_covers()'],['../struct_cover_lookup_1_1_private.html#ad909377f883373dc48454ba22d9cd2e0',1,'CoverLookup::Private::n_covers()'],['../struct_cover_lookup_alternative_1_1_private.html#a19631df719d4d54173774370becc6efb',1,'CoverLookupAlternative::Private::n_covers()']]],
+  ['n_5fcovers_5ffound',['n_covers_found',['../struct_cover_fetch_thread_1_1_private.html#ae646089590fa20ee06844f879a7ed8db',1,'CoverFetchThread::Private']]],
+  ['n_5fdiscs',['n_discs',['../class_album.html#acb0bd7f726aca61e51df530b51927b9e',1,'Album::n_discs()'],['../class_meta_data.html#aa74be739438fc4a0b20fe44d8b9ac928',1,'MetaData::n_discs()'],['../class_models_1_1_discnumber.html#a41872f4a6e6f3ce3f58949ea5044db5b',1,'Models::Discnumber::n_discs()']]],
+  ['n_5ffading_5fsteps',['n_fading_steps',['../struct_color_style.html#a0a2ae4eefc51a512d475cae4892b75e2',1,'ColorStyle']]],
+  ['n_5ffading_5fsteps_5flevel',['n_fading_steps_level',['../struct_raw_color_style.html#af4cd18dfa645c2c5f164f9b9fd168b63',1,'RawColorStyle']]],
+  ['n_5ffading_5fsteps_5fspectrum',['n_fading_steps_spectrum',['../struct_raw_color_style.html#a79c5e365572f04f13b363de14df8c68f',1,'RawColorStyle']]],
+  ['n_5frects',['n_rects',['../struct_color_style.html#afc62ba4c9702724f839bc4c1a6b34dd1',1,'ColorStyle']]],
+  ['n_5frects_5flevel',['n_rects_level',['../struct_raw_color_style.html#a67cd43485fc91e586fc4762ad683b3ce',1,'RawColorStyle']]],
+  ['n_5frows',['n_rows',['../struct_library_item_model_1_1_private.html#aebfcbf1cad80565cc0c1749c095485fe',1,'LibraryItemModel::Private']]],
+  ['n_5fthreads_5frunning',['n_threads_running',['../struct_album_cover_model_1_1_private.html#a33998aaff4052781318c57dc1917ea10',1,'AlbumCoverModel::Private']]],
+  ['nam',['nam',['../struct_async_web_access_1_1_private.html#a3c24390412e409fe6866e8cb9d077700',1,'AsyncWebAccess::Private']]],
+  ['name',['name',['../struct_bookmark_1_1_private.html#a52d5fea600eb966f0f571b35ff41041d',1,'Bookmark::Private::name()'],['../struct_shortcut_1_1_private.html#ab7a25f986ca09802ae1101b36b4ba056',1,'Shortcut::Private::name()'],['../struct_color_list.html#aee16fd94a3e8b2635a022b637b829beb',1,'ColorList::name()'],['../struct_color_style.html#a626f43dda7354d83c5ed214f82ed91ee',1,'ColorStyle::name()'],['../struct_library_1_1_date_filter_1_1_private.html#a9206d067378e0dc59ed8d6e5bc4ea492',1,'Library::DateFilter::Private::name()'],['../class_album.html#a727f83dc80dabae0b2e5ad1c7b780dac',1,'Album::name()'],['../class_artist.html#af3f4cf48c9a009e467715b792018ea79',1,'Artist::name()'],['../struct_genre_1_1_private.html#af3c34a51b5cc984ca1a2b06a7b776f05',1,'Genre::Private::name()']]],
+  ['next_5fidx',['next_idx',['../struct_bookmarks_1_1_private.html#a98aa321129baed85ec7ad24266ebb613',1,'Bookmarks::Private']]],
+  ['notify',['notify',['../struct_tag_edit_1_1_private.html#a9897867a9a9e04ce60f1f8d1332ca045',1,'TagEdit::Private']]],
+  ['num_5falbums',['num_albums',['../class_artist.html#a85f30730425ec76fa7791d854ccc84da',1,'Artist']]],
+  ['num_5fsongs',['num_songs',['../class_album.html#a18ea977a4cd351fb4726611bafce234b',1,'Album::num_songs()'],['../class_artist.html#ad901e636a01a3a68321c8080137c6c2d',1,'Artist::num_songs()']]]
+];

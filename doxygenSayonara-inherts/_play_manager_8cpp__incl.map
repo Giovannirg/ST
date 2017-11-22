@@ -1,0 +1,20 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/Components/PlayManager/PlayManager.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/Components/PlayManager/PlayManager.cpp">
+<area shape="rect" id="node2" href="$_play_manager_8h.html" title="PlayManager.h" alt="" coords="241,206,351,233"/>
+<area shape="rect" id="node10" href="$_notification_handler_8h.html" title="Interfaces/Notification\l/NotificationHandler.h" alt="" coords="437,199,587,240"/>
+<area shape="rect" id="node13" href="$_meta_data_8h.html" title="Helper/MetaData/MetaData.h" alt="" coords="1513,295,1706,322"/>
+<area shape="rect" id="node20" href="$_settings_8h.html" title="Helper/Settings/Settings.h" alt="" coords="786,124,961,151"/>
+<area shape="rect" id="node28" href="$_logger_8h.html" title="Helper/Logger/Logger.h" alt="" coords="1140,124,1297,151"/>
+<area shape="rect" id="node4" href="$_play_state_8h.html" title="PlayState.h" alt="" coords="148,377,239,404"/>
+<area shape="rect" id="node6" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="447,295,577,322"/>
+<area shape="rect" id="node7" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="917,295,1025,322"/>
+<area shape="rect" id="node9" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="27,288,197,329"/>
+<area shape="rect" id="node11" href="$_notification_interface_8h.html" title="NotificationInterface.h" alt="" coords="273,295,423,322"/>
+<area shape="rect" id="node14" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="1443,377,1645,404"/>
+<area shape="rect" id="node16" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="1785,377,1879,404"/>
+<area shape="rect" id="node21" href="$_setting_8h.html" title="Helper/Settings/Setting.h" alt="" coords="897,206,1065,233"/>
+<area shape="rect" id="node26" href="$_setting_notifier_8h.html" title="Helper/Settings/SettingNotifier.h" alt="" coords="663,206,873,233"/>
+<area shape="rect" id="node22" href="$_setting_key_8h.html" title="Helper/Settings/SettingKey.h" alt="" coords="1049,295,1239,322"/>
+<area shape="rect" id="node25" href="$_setting_converter_8h.html" title="Helper/Settings/SettingConverter.h" alt="" coords="1263,295,1489,322"/>
+<area shape="rect" id="node23" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="1081,377,1207,404"/>
+<area shape="rect" id="node27" href="$_abstr_setting_notifier_8h.html" title="Helper/Settings/AbstrSetting\lNotifier.h" alt="" coords="653,288,841,329"/>
+</map>

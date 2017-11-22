@@ -1,0 +1,10 @@
+<map id="Ui::GUI_DirectoryWidget" name="Ui::GUI_DirectoryWidget">
+<area shape="rect" id="node2" href="$class_ui___g_u_i___directory_widget.html" title="Ui_GUI_DirectoryWidget" alt="" coords="109,323,276,349"/>
+<area shape="rect" id="node3" href="$class_directory_tree_view.html" title="DirectoryTreeView" alt="" coords="189,233,319,260"/>
+<area shape="rect" id="node4" href="$class_search_view_interface.html" title="SearchableTreeView" alt="" coords="265,157,408,184"/>
+<area shape="rect" id="node10" href="$class_search_view_interface.html" title="SearchableListView" alt="" coords="5,157,143,184"/>
+<area shape="rect" id="node6" href="$class_search_view_functionality.html" title="The SearchViewInterface class. " alt="" coords="233,81,400,108"/>
+<area shape="rect" id="node7" href="$class_sayonara_selection_view.html" title="The SayonaraSelectionView class. " alt="" coords="237,5,397,32"/>
+<area shape="rect" id="node8" href="$class_dragable.html" title="The Dragable class. " alt="" coords="167,157,242,184"/>
+<area shape="rect" id="node9" href="$class_file_list_view.html" title="FileListView" alt="" coords="71,233,165,260"/>
+</map>

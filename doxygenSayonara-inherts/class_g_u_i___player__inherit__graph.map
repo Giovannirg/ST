@@ -1,0 +1,9 @@
+<map id="GUI_Player" name="GUI_Player">
+<area shape="rect" id="node2" href="$class_sayonara_main_window.html" title="The SayonaraMainWindow class. " alt="" coords="49,169,201,196"/>
+<area shape="rect" id="node3" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QMainWindow \&gt;" alt="" coords="39,80,211,121"/>
+<area shape="rect" id="node5" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="137,5,247,32"/>
+<area shape="rect" id="node6" href="$class_shortcut_widget.html" title="Interface that should be implemented when using configurable shortcuts. " alt="" coords="225,169,337,196"/>
+<area shape="rect" id="node7" href="$class_global_message_receiver_interface.html" title="The GlobalMessageReceiverInterface class implement this class in order to have the possibility to sho..." alt="" coords="362,169,577,196"/>
+<area shape="rect" id="node8" href="$class_ui_1_1_sayonara.html" title="Ui::Sayonara" alt="" coords="601,169,700,196"/>
+<area shape="rect" id="node9" href="$class_ui___sayonara.html" title="Ui_Sayonara" alt="" coords="602,87,699,114"/>
+</map>

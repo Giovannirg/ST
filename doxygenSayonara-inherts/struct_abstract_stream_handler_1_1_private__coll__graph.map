@@ -1,0 +1,7 @@
+<map id="AbstractStreamHandler::Private" name="AbstractStreamHandler::Private">
+<area shape="rect" id="node2" href="$class_playlist_handler.html" title="Global handler for playlists. " alt="" coords="33,272,143,299"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="33,81,103,108"/>
+<area shape="rect" id="node7" href="$class_stream_parser.html" title="StreamParser" alt="" coords="131,132,234,159"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="33,183,143,209"/>
+<area shape="rect" id="node6" href="$class_q_map.html" title="QMap\&lt; QString, MetaDataList \&gt;" alt="" coords="220,272,431,299"/>
+</map>

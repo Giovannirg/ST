@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; AlbumID \&gt;" alt="" coords="93,5,236,32"/>
+<area shape="rect" id="node3" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; ArtistID \&gt;" alt="" coords="96,56,233,83"/>
+<area shape="rect" id="node4" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; Genre \&gt;" alt="" coords="101,107,228,133"/>
+<area shape="rect" id="node5" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; int \&gt;" alt="" coords="111,157,218,184"/>
+<area shape="rect" id="node6" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; QString \&gt;" alt="" coords="97,208,233,235"/>
+<area shape="rect" id="node7" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; TrackID \&gt;" alt="" coords="95,259,234,285"/>
+<area shape="rect" id="node8" href="$class_s_p_1_1_set.html" title="A set structure. Inherited from std::set with some useful methods. For integer and String this set is..." alt="" coords="115,309,215,336"/>
+</map>

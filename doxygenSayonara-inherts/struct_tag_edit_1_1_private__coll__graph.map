@@ -1,0 +1,14 @@
+<map id="TagEdit::Private" name="TagEdit::Private">
+<area shape="rect" id="node2" href="$class_library_database.html" title="LibraryDatabase" alt="" coords="405,119,523,145"/>
+<area shape="rect" id="node3" href="$class_abstract_database.html" title="AbstractDatabase" alt="" coords="209,9,336,36"/>
+<area shape="rect" id="node5" href="$class_database_albums.html" title="DatabaseAlbums" alt="" coords="211,169,334,196"/>
+<area shape="rect" id="node6" href="$class_database_module.html" title="DatabaseModule" alt="" coords="21,189,141,216"/>
+<area shape="rect" id="node8" href="$class_database_artists.html" title="DatabaseArtists" alt="" coords="215,68,331,95"/>
+<area shape="rect" id="node9" href="$class_database_tracks.html" title="DatabaseTracks" alt="" coords="213,119,332,145"/>
+<area shape="rect" id="node10" href="$class_database_library.html" title="DatabaseLibrary" alt="" coords="214,235,331,261"/>
+<area shape="rect" id="node7" href="$class_database_search_mode.html" title="DatabaseSearchMode" alt="" coords="5,72,156,99"/>
+<area shape="rect" id="node11" href="$class_q_list.html" title="QList\&lt; bool \&gt;" alt="" coords="413,169,515,196"/>
+<area shape="rect" id="node12" href="$class_q_map.html" title="QMap\&lt; int, QImage \&gt;" alt="" coords="389,220,539,247"/>
+<area shape="rect" id="node13" href="$class_meta_data_list.html" title="MetaDataList" alt="" coords="414,307,514,333"/>
+<area shape="rect" id="node14" href="$class_q_list.html" title="QList\&lt; MetaData \&gt;" alt="" coords="205,307,340,333"/>
+</map>

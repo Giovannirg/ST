@@ -1,0 +1,27 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Plugins/PlaylistChooser/GUI_PlaylistChooser.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Plugins/PlaylistChooser/GUI_PlaylistChooser.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___playlist_chooser_8h.html" title="GUI_PlaylistChooser.h" alt="" coords="306,221,462,247"/>
+<area shape="rect" id="node14" href="$_g_u_i___target_playlist_dialog_8h.html" title="GUI_TargetPlaylistDialog.h" alt="" coords="2261,131,2443,158"/>
+<area shape="rect" id="node27" href="$ui___g_u_i___playlist_chooser_8h.html" title="GUI/Plugins/PlaylistChooser\l/ui_GUI_PlaylistChooser.h" alt="" coords="2060,213,2249,255"/>
+<area shape="rect" id="node32" href="$_playlist_chooser_8h.html" title="Components/PlaylistChooser\l/PlaylistChooser.h" alt="" coords="487,213,679,255"/>
+<area shape="rect" id="node34" href="$_combo_box_delegate_8h.html" title="GUI/Helper/Delegates\l/ComboBoxDelegate.h" alt="" coords="2467,124,2621,165"/>
+<area shape="rect" id="node36" href="$_message_8h.html" title="Helper/Message/Message.h" alt="" coords="1386,131,1571,158"/>
+<area shape="rect" id="node40" href="$_helper_8h.html" title="Helper/Helper.h" alt="" coords="1249,131,1362,158"/>
+<area shape="rect" id="node41" href="$_custom_playlist_8h.html" title="Helper/Playlist/CustomPlaylist.h" alt="" coords="1596,131,1807,158"/>
+<area shape="rect" id="node44" href="$_language_8h.html" title="Helper/Language.h" alt="" coords="1093,131,1224,158"/>
+<area shape="rect" id="node45" href="$_settings_8h.html" title="Helper/Settings/Settings.h" alt="" coords="894,131,1069,158"/>
+<area shape="rect" id="node48" href="$_file_helper_8h.html" title="Helper/FileHelper.h" alt="" coords="2646,131,2781,158"/>
+<area shape="rect" id="node3" href="$_player_plugin_8h.html" title="Interfaces/PlayerPlugin\l/PlayerPlugin.h" alt="" coords="1013,303,1171,344"/>
+<area shape="rect" id="node7" href="$_custom_playlist_fwd_8h.html" title="Helper/Playlist/CustomPlaylist\lFwd.h" alt="" coords="472,303,672,344"/>
+<area shape="rect" id="node4" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="769,399,877,426"/>
+<area shape="rect" id="node5" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="975,392,1163,433"/>
+<area shape="rect" id="node6" href="$_shortcut_widget_8h.html" title="GUI/Helper/Shortcuts\l/ShortcutWidget.h" alt="" coords="1187,392,1335,433"/>
+<area shape="rect" id="node15" href="$ui___g_u_i___target_playlist_dialog_8h.html" title="GUI/Plugins/PlaylistChooser\l/ui_GUI_TargetPlaylistDialog.h" alt="" coords="2671,213,2873,255"/>
+<area shape="rect" id="node26" href="$_sayonara_dialog_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraDialog.h" alt="" coords="2274,213,2462,255"/>
+<area shape="rect" id="node28" href="$_menu_tool_8h.html" title="GUI/Helper/MenuTool\l/MenuTool.h" alt="" coords="1440,303,1589,344"/>
+<area shape="rect" id="node37" href="$_global_message_8h.html" title="GlobalMessage.h" alt="" coords="1231,221,1353,247"/>
+<area shape="rect" id="node38" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="1195,310,1325,337"/>
+<area shape="rect" id="node42" href="$_custom_playlist_skeleton_8h.html" title="CustomPlaylistSkeleton.h" alt="" coords="1479,221,1652,247"/>
+<area shape="rect" id="node43" href="$_meta_data_list_8h.html" title="Helper/MetaData/MetaData\lList.h" alt="" coords="1677,213,1859,255"/>
+<area shape="rect" id="node46" href="$_setting_8h.html" title="Helper/Settings/Setting.h" alt="" coords="703,221,871,247"/>
+<area shape="rect" id="node47" href="$_setting_notifier_8h.html" title="Helper/Settings/SettingNotifier.h" alt="" coords="895,221,1105,247"/>
+</map>

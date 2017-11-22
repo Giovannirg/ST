@@ -1,0 +1,6 @@
+<map id="CoverFetcherInterface" name="CoverFetcherInterface">
+<area shape="rect" id="node2" href="$class_discogs_cover_fetcher.html" title="The DiscogsCoverFetcher class. See CoverFetcherInterface. " alt="" coords="5,80,155,107"/>
+<area shape="rect" id="node3" href="$class_google_cover_fetcher.html" title="The GoogleCoverFetcher class. See CoverFetcherInterface. " alt="" coords="178,80,321,107"/>
+<area shape="rect" id="node4" href="$class_l_f_m_cover_fetcher.html" title="The LFMCoverFetcher class. See CoverFetcherInterface. " alt="" coords="345,80,471,107"/>
+<area shape="rect" id="node5" href="$class_standard_cover_fetcher.html" title="The StandardCoverFetcher class. Convenience class for local cover search. See CoverFetcherInterface. " alt="" coords="495,80,649,107"/>
+</map>

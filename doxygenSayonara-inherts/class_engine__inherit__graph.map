@@ -1,0 +1,6 @@
+<map id="Engine" name="Engine">
+<area shape="rect" id="node4" href="$class_convert_engine.html" title="ConvertEngine" alt="" coords="5,155,113,181"/>
+<area shape="rect" id="node5" href="$class_engine_handler.html" title="The EngineHandler class. " alt="" coords="138,155,245,181"/>
+<area shape="rect" id="node6" href="$class_playback_engine.html" title="The PlaybackEngine class. " alt="" coords="269,155,385,181"/>
+<area shape="rect" id="node3" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="193,5,304,32"/>
+</map>

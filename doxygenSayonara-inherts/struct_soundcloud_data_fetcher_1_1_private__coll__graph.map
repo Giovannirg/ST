@@ -1,0 +1,8 @@
+<map id="SoundcloudDataFetcher::Private" name="SoundcloudDataFetcher::Private">
+<area shape="rect" id="node2" href="$class_artist_list.html" title="ArtistList. " alt="" coords="39,81,114,108"/>
+<area shape="rect" id="node3" href="$class_q_list.html" title="QList\&lt; Artist \&gt;" alt="" coords="5,5,113,32"/>
+<area shape="rect" id="node4" href="$class_album_list.html" title="The AlbumList class. " alt="" coords="155,81,235,108"/>
+<area shape="rect" id="node5" href="$class_q_list.html" title="QList\&lt; Album \&gt;" alt="" coords="138,5,253,32"/>
+<area shape="rect" id="node6" href="$class_meta_data_list.html" title="MetaDataList" alt="" coords="279,81,379,108"/>
+<area shape="rect" id="node7" href="$class_q_list.html" title="QList\&lt; MetaData \&gt;" alt="" coords="277,5,412,32"/>
+</map>

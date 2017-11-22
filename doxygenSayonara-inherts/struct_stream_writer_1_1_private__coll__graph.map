@@ -1,0 +1,11 @@
+<map id="StreamWriter::Private" name="StreamWriter::Private">
+<area shape="rect" id="node2" href="$class_stream_data_sender.html" title="The StreamDataSender class. This class is used for sending the raw bytes. " alt="" coords="5,336,139,363"/>
+<area shape="rect" id="node3" href="$class_engine_handler.html" title="The EngineHandler class. " alt="" coords="163,336,269,363"/>
+<area shape="rect" id="node4" href="$class_engine.html" title="The Engine class. " alt="" coords="185,260,247,287"/>
+<area shape="rect" id="node7" href="$class_settings.html" title="The Settings class. " alt="" coords="166,81,237,108"/>
+<area shape="rect" id="node6" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="161,171,271,197"/>
+<area shape="rect" id="node8" href="$class_meta_data.html" title="The MetaData class. " alt="" coords="295,171,374,197"/>
+<area shape="rect" id="node9" href="$class_library_item.html" title="The LibraryItem class. " alt="" coords="275,81,362,108"/>
+<area shape="rect" id="node10" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; Genre \&gt;" alt="" coords="386,81,513,108"/>
+<area shape="rect" id="node12" href="$class_stream_http_parser.html" title="StreamHttpParser" alt="" coords="294,336,421,363"/>
+</map>

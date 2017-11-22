@@ -1,0 +1,8 @@
+<map id="DatabaseSearchMode" name="DatabaseSearchMode">
+<area shape="rect" id="node2" href="$class_database_albums.html" title="DatabaseAlbums" alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node6" href="$class_database_artists.html" title="DatabaseArtists" alt="" coords="153,80,269,107"/>
+<area shape="rect" id="node7" href="$class_database_tracks.html" title="DatabaseTracks" alt="" coords="293,80,411,107"/>
+<area shape="rect" id="node3" href="$class_library_database.html" title="LibraryDatabase" alt="" coords="152,155,269,181"/>
+<area shape="rect" id="node4" href="$class_database_connector.html" title="DatabaseConnector" alt="" coords="65,229,204,256"/>
+<area shape="rect" id="node5" href="$class_soundcloud_data.html" title="SoundcloudData" alt="" coords="229,229,347,256"/>
+</map>

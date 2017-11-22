@@ -1,0 +1,5 @@
+<map id="ID3v2::CoverFrame" name="ID3v2::CoverFrame">
+<area shape="rect" id="node2" href="$class_i_d3v2_1_1_i_d3v2_frame.html" title="ID3v2::ID3v2Frame\&lt;\l Models::Cover, TagLib\l::ID3v2::AttachedPictureFrame \&gt;" alt="" coords="5,169,220,225"/>
+<area shape="rect" id="node3" href="$class_tagging_1_1_abstract_frame.html" title="Tagging::AbstractFrame\l\&lt; TagLib::ID3v2::Tag \&gt;" alt="" coords="31,80,194,121"/>
+<area shape="rect" id="node4" href="$class_tagging_1_1_abstract_frame_helper.html" title="Tagging::AbstractFrameHelper" alt="" coords="13,5,213,32"/>
+</map>

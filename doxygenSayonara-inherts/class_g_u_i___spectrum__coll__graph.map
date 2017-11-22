@@ -1,0 +1,25 @@
+<map id="GUI_Spectrum" name="GUI_Spectrum">
+<area shape="rect" id="node2" href="$class_engine_plugin.html" title="EnginePlugin" alt="" coords="1713,215,1812,241"/>
+<area shape="rect" id="node3" href="$class_player_plugin_interface.html" title="Interface for PlayerPlugin classes. get_name() and language_changed() must be overwritten. " alt="" coords="1437,188,1584,215"/>
+<area shape="rect" id="node4" href="$class_sayonara_widget.html" title="Widget with Settings connection. Also contains triggers for language_changed() and skin_changed() &#160;wi..." alt="" coords="1215,137,1334,164"/>
+<area shape="rect" id="node5" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QWidget \&gt;" alt="" coords="715,174,887,215"/>
+<area shape="rect" id="node7" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="527,197,637,224"/>
+<area shape="rect" id="node11" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="715,109,887,150"/>
+<area shape="rect" id="node14" href="$class_play_manager.html" title="Global handler for current playback state (Singleton) " alt="" coords="751,240,850,267"/>
+<area shape="rect" id="node16" href="$class_engine.html" title="The Engine class. " alt="" coords="769,308,832,335"/>
+<area shape="rect" id="node8" href="$class_settings.html" title="The Settings class. " alt="" coords="208,197,279,224"/>
+<area shape="rect" id="node21" href="$class_engine_color_style_chooser.html" title="EngineColorStyleChooser" alt="" coords="331,43,503,69"/>
+<area shape="rect" id="node10" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="938,119,1053,145"/>
+<area shape="rect" id="node25" href="$class_g_u_i___style_settings.html" title="GUI_StyleSettings" alt="" coords="1209,87,1340,113"/>
+<area shape="rect" id="node13" href="$class_shortcut_widget.html" title="Interface that should be implemented when using configurable shortcuts. " alt="" coords="1219,188,1331,215"/>
+<area shape="rect" id="node15" href="$class_engine_handler.html" title="The EngineHandler class. " alt="" coords="1079,301,1185,328"/>
+<area shape="rect" id="node17" href="$class_meta_data.html" title="The MetaData class. " alt="" coords="543,316,621,343"/>
+<area shape="rect" id="node18" href="$class_library_item.html" title="The LibraryItem class. " alt="" coords="200,299,287,325"/>
+<area shape="rect" id="node19" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; Genre \&gt;" alt="" coords="180,423,307,449"/>
+<area shape="rect" id="node22" href="$struct_color_style.html" title="ColorStyle" alt="" coords="1469,352,1552,379"/>
+<area shape="rect" id="node23" href="$struct_color_list.html" title="ColorList" alt="" coords="1237,352,1312,379"/>
+<area shape="rect" id="node24" href="$class_q_list.html" title="QList\&lt; QColor \&gt;" alt="" coords="936,352,1055,379"/>
+<area shape="rect" id="node26" href="$class_ui_1_1_g_u_i___style.html" title="Ui::GUI_Style" alt="" coords="943,68,1047,95"/>
+<area shape="rect" id="node27" href="$class_ui___g_u_i___style.html" title="Ui_GUI_Style" alt="" coords="749,57,852,84"/>
+<area shape="rect" id="node28" href="$class_spectrum_receiver.html" title="The SpectrumReceiver class. " alt="" coords="1697,265,1828,292"/>
+</map>

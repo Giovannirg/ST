@@ -1,0 +1,5 @@
+<map id="PlaylistDBInterface" name="PlaylistDBInterface">
+<area shape="rect" id="node3" href="$class_abstract_playlist.html" title="The Playlist class. " alt="" coords="15,155,130,181"/>
+<area shape="rect" id="node4" href="$class_std_playlist.html" title="The StdPlaylist class. " alt="" coords="30,229,115,256"/>
+<area shape="rect" id="node5" href="$class_stream_playlist.html" title="The StreamPlaylist class. " alt="" coords="19,304,126,331"/>
+</map>

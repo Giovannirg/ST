@@ -1,0 +1,20 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Plugins/Engine/EnginePlugin.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Plugins/Engine/EnginePlugin.cpp">
+<area shape="rect" id="node2" href="$_engine_plugin_8h.html" title="EnginePlugin.h" alt="" coords="3204,131,3313,158"/>
+<area shape="rect" id="node42" href="$_engine_color_style_chooser_8h.html" title="EngineColorStyleChooser.h" alt="" coords="3438,221,3621,247"/>
+<area shape="rect" id="node44" href="$_engine_handler_8h.html" title="Components/Engine/Engine\lHandler.h" alt="" coords="3641,124,3825,165"/>
+<area shape="rect" id="node49" href="$_play_manager_8h.html" title="Components/PlayManager\l/PlayManager.h" alt="" coords="3849,124,4025,165"/>
+<area shape="rect" id="node3" href="$_g_u_i___style_settings_8h.html" title="GUI_StyleSettings.h" alt="" coords="2823,221,2966,247"/>
+<area shape="rect" id="node31" href="$_player_plugin_8h.html" title="Interfaces/PlayerPlugin\l/PlayerPlugin.h" alt="" coords="2991,213,3148,255"/>
+<area shape="rect" id="node38" href="$_play_state_8h.html" title="Components/PlayManager\l/PlayState.h" alt="" coords="3645,213,3821,255"/>
+<area shape="rect" id="node4" href="$_style_types_8h.html" title="StyleTypes.h" alt="" coords="3451,310,3549,337"/>
+<area shape="rect" id="node9" href="$ui___g_u_i___style_8h.html" title="GUI/Plugins/Engine\l/ui_GUI_Style.h" alt="" coords="1458,303,1595,344"/>
+<area shape="rect" id="node26" href="$_sayonara_dialog_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraDialog.h" alt="" coords="2777,303,2965,344"/>
+<area shape="rect" id="node27" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="2933,392,3115,419"/>
+<area shape="rect" id="node28" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="4243,467,4413,508"/>
+<area shape="rect" id="node32" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="3773,310,3881,337"/>
+<area shape="rect" id="node34" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="3161,303,3349,344"/>
+<area shape="rect" id="node37" href="$_shortcut_widget_8h.html" title="GUI/Helper/Shortcuts\l/ShortcutWidget.h" alt="" coords="2989,303,3137,344"/>
+<area shape="rect" id="node45" href="$_abstract_engine_8h.html" title="AbstractEngine.h" alt="" coords="4101,221,4224,247"/>
+<area shape="rect" id="node48" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="3846,221,3975,247"/>
+<area shape="rect" id="node46" href="$_meta_data_8h.html" title="Helper/MetaData/MetaData.h" alt="" coords="3999,310,4193,337"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Library/ImportFolderDialog/GUI_ImportFolder.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Library/ImportFolderDialog/GUI_ImportFolder.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___import_folder_8h.html" title="GUI_ImportFolder.h" alt="" coords="3342,131,3479,158"/>
+<area shape="rect" id="node11" href="$ui___g_u_i___import_folder_8h.html" title="GUI/Library/ui_GUI\l_ImportFolder.h" alt="" coords="1171,124,1306,165"/>
+<area shape="rect" id="node25" href="$_g_u_i___tag_edit_8h.html" title="GUI/TagEdit/GUI_TagEdit.h" alt="" coords="2644,131,2831,158"/>
+<area shape="rect" id="node33" href="$_tag_edit_8h.html" title="Components/TagEdit\l/TagEdit.h" alt="" coords="3497,213,3642,255"/>
+<area shape="rect" id="node36" href="$_meta_data_list_8h.html" title="Helper/MetaData/MetaData\lList.h" alt="" coords="3007,124,3190,165"/>
+<area shape="rect" id="node40" href="$_settings_8h.html" title="Helper/Settings/Settings.h" alt="" coords="3765,131,3939,158"/>
+<area shape="rect" id="node43" href="$_message_8h.html" title="Helper/Message/Message.h" alt="" coords="3555,131,3741,158"/>
+<area shape="rect" id="node45" href="$_language_8h.html" title="Helper/Language.h" alt="" coords="3964,131,4095,158"/>
+<area shape="rect" id="node3" href="$_sayonara_dialog_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraDialog.h" alt="" coords="3233,213,3421,255"/>
+<area shape="rect" id="node7" href="$_library_importer_8h.html" title="Components/Library\l/Importer/LibraryImporter.h" alt="" coords="3909,213,4085,255"/>
+<area shape="rect" id="node4" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="2641,303,2823,329"/>
+<area shape="rect" id="node5" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="3239,377,3409,419"/>
+<area shape="rect" id="node8" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="4106,303,4235,329"/>
+<area shape="rect" id="node9" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="3689,303,3797,329"/>
+<area shape="rect" id="node28" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="2291,213,2479,255"/>
+<area shape="rect" id="node31" href="$_tag_expression_8h.html" title="Components/TagEdit\l/TagExpression.h" alt="" coords="2809,213,2954,255"/>
+<area shape="rect" id="node37" href="$_meta_data_8h.html" title="MetaData.h" alt="" coords="3117,221,3208,247"/>
+<area shape="rect" id="node38" href="$_meta_data_fwd_8h.html" title="MetaDataFwd.h" alt="" coords="2979,221,3093,247"/>
+<area shape="rect" id="node39" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="2659,221,2784,247"/>
+<area shape="rect" id="node41" href="$_setting_8h.html" title="Helper/Settings/Setting.h" alt="" coords="3717,221,3885,247"/>
+<area shape="rect" id="node42" href="$_setting_notifier_8h.html" title="Helper/Settings/SettingNotifier.h" alt="" coords="4307,221,4517,247"/>
+<area shape="rect" id="node44" href="$_global_message_8h.html" title="GlobalMessage.h" alt="" coords="4109,221,4232,247"/>
+</map>

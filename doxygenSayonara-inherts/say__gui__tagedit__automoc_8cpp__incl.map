@@ -1,0 +1,13 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/src/GUI/TagEdit/say_gui_tagedit_automoc.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/src/GUI/TagEdit/say_gui_tagedit_automoc.cpp">
+<area shape="rect" id="node2" href="$moc___g_u_i___tag_edit_8cpp.html" title="moc_GUI_TagEdit.cpp" alt="" coords="541,109,696,136"/>
+<area shape="rect" id="node18" href="$moc___tag_line_edit_8cpp.html" title="moc_TagLineEdit.cpp" alt="" coords="369,109,517,136"/>
+<area shape="rect" id="node20" href="$moc___tag_text_input_8cpp.html" title="moc_TagTextInput.cpp" alt="" coords="189,109,345,136"/>
+<area shape="rect" id="node3" href="$_g_u_i___tag_edit_8h.html" title="../../../sayonara&#45;player\l&#45;read&#45;only/src/GUI/TagEdit\l/GUI_TagEdit.h" alt="" coords="740,184,919,240"/>
+<area shape="rect" id="node6" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="1013,288,1201,329"/>
+<area shape="rect" id="node11" href="$_tag_expression_8h.html" title="Components/TagEdit\l/TagExpression.h" alt="" coords="599,288,745,329"/>
+<area shape="rect" id="node14" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="821,295,929,322"/>
+<area shape="rect" id="node7" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="925,377,1107,404"/>
+<area shape="rect" id="node8" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="572,452,743,493"/>
+<area shape="rect" id="node19" href="$_tag_line_edit_8h.html" title="../../../sayonara&#45;player\l&#45;read&#45;only/src/GUI/TagEdit\l/TagLineEdit.h" alt="" coords="537,184,716,240"/>
+<area shape="rect" id="node21" href="$_tag_text_input_8h.html" title="../../../sayonara&#45;player\l&#45;read&#45;only/src/GUI/TagEdit\l/TagTextInput.h" alt="" coords="5,184,184,240"/>
+</map>

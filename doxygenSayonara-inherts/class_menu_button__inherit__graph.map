@@ -1,0 +1,4 @@
+<map id="MenuButton" name="MenuButton">
+<area shape="rect" id="node4" href="$class_menu_tool_button.html" title="This is the little button you often see near comboboxes It opens up a menu when clicked. The actions in the menu a configurable. " alt="" coords="61,155,178,181"/>
+<area shape="rect" id="node3" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="129,5,240,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Ui_GUI_TagEdit" name="Ui_GUI_TagEdit">
+<area shape="rect" id="node2" href="$class_rating_label.html" title="The RatingLabel class. " alt="" coords="34,260,125,287"/>
+<area shape="rect" id="node4" href="$class_tag_text_input.html" title="GUI class for String fields meant to convert content to first upper case by a context menu..." alt="" coords="162,260,261,287"/>
+<area shape="rect" id="node9" href="$class_tag_line_edit.html" title="The TagLineEdit class. " alt="" coords="286,260,377,287"/>
+<area shape="rect" id="node6" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="92,171,203,197"/>
+<area shape="rect" id="node7" href="$class_settings.html" title="The Settings class. " alt="" coords="112,81,183,108"/>
+<area shape="rect" id="node10" href="$struct_text_selection.html" title="Holds start and size of a selection. " alt="" coords="329,171,432,197"/>
+<area shape="rect" id="node11" href="$class_cover_button.html" title="The CoverButton class. " alt="" coords="440,260,535,287"/>
+</map>

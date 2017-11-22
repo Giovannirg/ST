@@ -1,0 +1,26 @@
+<map id="SoundcloudLibrary" name="SoundcloudLibrary">
+<area shape="rect" id="node2" href="$class_abstract_library.html" title="AbstractLibrary" alt="" coords="937,289,1048,316"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="233,228,304,255"/>
+<area shape="rect" id="node6" href="$class_playlist_handler.html" title="Global handler for playlists. " alt="" coords="644,263,755,289"/>
+<area shape="rect" id="node23" href="$class_abstract_database.html" title="AbstractDatabase" alt="" coords="205,365,332,392"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="453,228,563,255"/>
+<area shape="rect" id="node7" href="$class_artist_list.html" title="ArtistList. " alt="" coords="662,313,737,340"/>
+<area shape="rect" id="node8" href="$class_q_list.html" title="QList\&lt; Artist \&gt;" alt="" coords="454,329,562,356"/>
+<area shape="rect" id="node9" href="$class_library_1_1_filter.html" title="The Filter class. " alt="" coords="650,364,749,391"/>
+<area shape="rect" id="node10" href="$class_library_1_1_sortings.html" title="The Sortings class. " alt="" coords="641,415,758,441"/>
+<area shape="rect" id="node11" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; AlbumID \&gt;" alt="" coords="628,465,771,492"/>
+<area shape="rect" id="node13" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; TrackID \&gt;" alt="" coords="630,516,769,543"/>
+<area shape="rect" id="node15" href="$class_album_list.html" title="The AlbumList class. " alt="" coords="659,9,739,36"/>
+<area shape="rect" id="node16" href="$class_q_list.html" title="QList\&lt; Album \&gt;" alt="" coords="451,9,565,36"/>
+<area shape="rect" id="node17" href="$class_s_p_1_1_set.html" title="SP::Set\&lt; ArtistID \&gt;" alt="" coords="631,60,768,87"/>
+<area shape="rect" id="node19" href="$class_meta_data_list.html" title="MetaDataList" alt="" coords="649,111,749,137"/>
+<area shape="rect" id="node20" href="$class_q_list.html" title="QList\&lt; MetaData \&gt;" alt="" coords="441,111,575,137"/>
+<area shape="rect" id="node21" href="$class_soundcloud_data.html" title="SoundcloudData" alt="" coords="795,564,913,591"/>
+<area shape="rect" id="node22" href="$class_library_database.html" title="LibraryDatabase" alt="" coords="449,567,567,593"/>
+<area shape="rect" id="node24" href="$class_database_albums.html" title="DatabaseAlbums" alt="" coords="207,545,330,572"/>
+<area shape="rect" id="node25" href="$class_database_module.html" title="DatabaseModule" alt="" coords="21,597,141,624"/>
+<area shape="rect" id="node27" href="$class_database_artists.html" title="DatabaseArtists" alt="" coords="211,495,327,521"/>
+<area shape="rect" id="node28" href="$class_database_tracks.html" title="DatabaseTracks" alt="" coords="209,596,328,623"/>
+<area shape="rect" id="node29" href="$class_database_library.html" title="DatabaseLibrary" alt="" coords="210,647,327,673"/>
+<area shape="rect" id="node26" href="$class_database_search_mode.html" title="DatabaseSearchMode" alt="" coords="5,480,156,507"/>
+</map>

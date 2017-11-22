@@ -1,0 +1,8 @@
+<map id="Ui_GUI_Equalizer" name="Ui_GUI_Equalizer">
+<area shape="rect" id="node2" href="$class_menu_tool_button.html" title="This is the little button you often see near comboboxes It opens up a menu when clicked. The actions in the menu a configurable. " alt="" coords="121,323,238,349"/>
+<area shape="rect" id="node3" href="$class_menu_button.html" title="The MenuButton class. A button that sends a signal when clicked. &#160;This Class is meant for inheritance..." alt="" coords="128,247,220,273"/>
+<area shape="rect" id="node5" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="129,171,240,197"/>
+<area shape="rect" id="node6" href="$class_settings.html" title="The Settings class. " alt="" coords="149,81,220,108"/>
+<area shape="rect" id="node8" href="$class_eq_slider.html" title="The EqSlider class. " alt="" coords="261,323,332,349"/>
+<area shape="rect" id="node9" href="$class_sayonara_slider.html" title="The SayonaraSlider class. " alt="" coords="244,247,355,273"/>
+</map>

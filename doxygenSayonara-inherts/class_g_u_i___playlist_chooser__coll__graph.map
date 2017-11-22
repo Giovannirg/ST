@@ -1,0 +1,10 @@
+<map id="GUI_PlaylistChooser" name="GUI_PlaylistChooser">
+<area shape="rect" id="node2" href="$class_player_plugin_interface.html" title="Interface for PlayerPlugin classes. get_name() and language_changed() must be overwritten. " alt="" coords="155,503,302,529"/>
+<area shape="rect" id="node3" href="$class_sayonara_widget.html" title="Widget with Settings connection. Also contains triggers for language_changed() and skin_changed() &#160;wi..." alt="" coords="65,427,184,453"/>
+<area shape="rect" id="node4" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QWidget \&gt;" alt="" coords="5,247,177,288"/>
+<area shape="rect" id="node6" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="135,171,245,197"/>
+<area shape="rect" id="node10" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="201,247,373,288"/>
+<area shape="rect" id="node7" href="$class_settings.html" title="The Settings class. " alt="" coords="155,81,225,108"/>
+<area shape="rect" id="node9" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="191,337,306,364"/>
+<area shape="rect" id="node12" href="$class_shortcut_widget.html" title="Interface that should be implemented when using configurable shortcuts. " alt="" coords="207,427,319,453"/>
+</map>

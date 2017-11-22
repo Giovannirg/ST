@@ -1,0 +1,6 @@
+<map id="Ui_GUI_SomaFM" name="Ui_GUI_SomaFM">
+<area shape="rect" id="node2" href="$class_soma_f_m_station_view.html" title="SomaFMStationView" alt="" coords="29,233,175,260"/>
+<area shape="rect" id="node3" href="$class_search_view_interface.html" title="SearchableTableView" alt="" coords="28,157,176,184"/>
+<area shape="rect" id="node5" href="$class_search_view_functionality.html" title="The SearchViewInterface class. " alt="" coords="129,81,296,108"/>
+<area shape="rect" id="node6" href="$class_sayonara_selection_view.html" title="The SayonaraSelectionView class. " alt="" coords="133,5,293,32"/>
+</map>

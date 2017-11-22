@@ -1,0 +1,9 @@
+<map id="LibraryGenreView::Private" name="LibraryGenreView::Private">
+<area shape="rect" id="node2" href="$class_context_menu.html" title="A context menu with some standard actions. " alt="" coords="99,260,199,287"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="94,171,205,197"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="114,81,185,108"/>
+<area shape="rect" id="node7" href="$class_tree_delegate.html" title="The TreeDelegate class. Only used for size hinting. " alt="" coords="234,260,334,287"/>
+<area shape="rect" id="node9" href="$class_s_p_1_1_tree.html" title="The Tree class. " alt="" coords="359,260,465,287"/>
+<area shape="rect" id="node10" href="$class_q_list.html" title="QList\&lt; SP::Tree *\&gt;" alt="" coords="363,171,498,197"/>
+<area shape="rect" id="node11" href="$class_tag_edit.html" title="The TagEdit class Metadata has to be added using the set_metadata(const MetaDataList&amp;) method..." alt="" coords="555,260,621,287"/>
+</map>

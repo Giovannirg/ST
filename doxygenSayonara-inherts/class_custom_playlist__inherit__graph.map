@@ -1,0 +1,5 @@
+<map id="CustomPlaylist" name="CustomPlaylist">
+<area shape="rect" id="node2" href="$class_custom_playlist_skeleton.html" title="The CustomPlaylistSkeleton class. " alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$class_meta_data_list.html" title="MetaDataList" alt="" coords="193,80,293,107"/>
+<area shape="rect" id="node4" href="$class_q_list.html" title="QList\&lt; MetaData \&gt;" alt="" coords="175,5,310,32"/>
+</map>

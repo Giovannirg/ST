@@ -1,0 +1,21 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/src/GUI/Library/ui_GUI_LocalLibrary.h" name="/home/leonard/Schreibtisch/SW/Projekt/src/GUI/Library/ui_GUI_LocalLibrary.h">
+<area shape="rect" id="node20" href="$_library_date_search_view_8h.html" title="GUI/Library/Views/Library\lDateSearchView.h" alt="" coords="2992,288,3164,329"/>
+<area shape="rect" id="node30" href="$_library_genre_view_8h.html" title="GUI/Library/Views/Library\lGenreView.h" alt="" coords="3312,199,3484,240"/>
+<area shape="rect" id="node34" href="$_library_table_view_8h.html" title="GUI/Library/Views/Library\lTableView.h" alt="" coords="3868,199,4040,240"/>
+<area shape="rect" id="node48" href="$_library_view_album_8h.html" title="GUI/Library/Views/Library\lViewAlbum.h" alt="" coords="4504,109,4676,151"/>
+<area shape="rect" id="node21" href="$_searchable_view_8h.html" title="GUI/Helper/SearchableWidget\l/SearchableView.h" alt="" coords="2916,377,3115,419"/>
+<area shape="rect" id="node24" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="3413,474,3521,501"/>
+<area shape="rect" id="node22" href="$_sayonara_selection_view_8h.html" title="GUI/Helper/SearchableWidget\l/SayonaraSelectionView.h" alt="" coords="3191,467,3389,508"/>
+<area shape="rect" id="node32" href="$_sayonara_widget_template_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidgetTemplate.h" alt="" coords="3413,288,3601,329"/>
+<area shape="rect" id="node33" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="3290,377,3461,419"/>
+<area shape="rect" id="node35" href="$_library_view_8h.html" title="LibraryView.h" alt="" coords="3903,295,4005,322"/>
+<area shape="rect" id="node47" href="$_sortorder_8h.html" title="Helper/Library/Sortorder.h" alt="" coords="4206,295,4377,322"/>
+<area shape="rect" id="node36" href="$_set_fwd_8h.html" title="Helper/SetFwd.h" alt="" coords="3925,474,4045,501"/>
+<area shape="rect" id="node37" href="$_dragable_8h.html" title="GUI/Helper/Dragable\l/Dragable.h" alt="" coords="3535,377,3679,419"/>
+<area shape="rect" id="node38" href="$_info_dialog_container_8h.html" title="GUI/InfoDialog/InfoDialog\lContainer.h" alt="" coords="4099,377,4271,419"/>
+<area shape="rect" id="node39" href="$_meta_data_fwd_8h.html" title="Helper/MetaData/MetaData\lFwd.h" alt="" coords="4101,467,4284,508"/>
+<area shape="rect" id="node40" href="$_library_item_model_8h.html" title="GUI/Library/Models\l/LibraryItemModel.h" alt="" coords="3885,377,4023,419"/>
+<area shape="rect" id="node41" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="4397,385,4522,411"/>
+<area shape="rect" id="node43" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="4316,474,4411,501"/>
+<area shape="rect" id="node49" href="$_album_8h.html" title="Helper/MetaData/Album.h" alt="" coords="4503,206,4677,233"/>
+</map>

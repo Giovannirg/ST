@@ -1,0 +1,16 @@
+<map id="SayonaraDialog" name="SayonaraDialog">
+<area shape="rect" id="node5" href="$class_g_u_i___alternative_covers.html" title="GUI_AlternativeCovers" alt="" coords="565,5,722,32"/>
+<area shape="rect" id="node6" href="$class_g_u_i___date_search_config.html" title="GUI_DateSearchConfig" alt="" coords="563,56,723,83"/>
+<area shape="rect" id="node7" href="$class_g_u_i___import_folder.html" title="GUI_ImportFolder" alt="" coords="580,107,707,133"/>
+<area shape="rect" id="node8" href="$class_g_u_i___info_dialog.html" title="The GUI_InfoDialog class. " alt="" coords="587,157,699,184"/>
+<area shape="rect" id="node9" href="$class_g_u_i___library_info_box.html" title="GUI_LibraryInfoBox" alt="" coords="575,208,712,235"/>
+<area shape="rect" id="node10" href="$class_g_u_i___m_t_p.html" title="GUI_MTP" alt="" coords="603,259,684,285"/>
+<area shape="rect" id="node11" href="$class_g_u_i___soundcloud_artist_search.html" title="GUI_SoundcloudArtistSearch" alt="" coords="547,309,740,336"/>
+<area shape="rect" id="node12" href="$class_g_u_i___style_settings.html" title="GUI_StyleSettings" alt="" coords="578,360,709,387"/>
+<area shape="rect" id="node13" href="$class_g_u_i___target_playlist_dialog.html" title="GUI_TargetPlaylistDialog" alt="" coords="558,411,729,437"/>
+<area shape="rect" id="node14" href="$class_preference_interface.html" title="PreferenceInterface\l\&lt; SayonaraDialog \&gt;" alt="" coords="574,462,713,503"/>
+<area shape="rect" id="node2" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="164,226,336,267"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="5,259,116,285"/>
+<area shape="rect" id="node15" href="$class_preference_dialog_interface.html" title="Abstract Interface you should use when creating a preference dialog. " alt="" coords="788,469,961,496"/>
+<area shape="rect" id="node16" href="$class_g_u_i___preference_dialog.html" title="The Preference Dialog. Register new Preference dialogs with the register_preference_dialog() method..." alt="" coords="1009,469,1163,496"/>
+</map>

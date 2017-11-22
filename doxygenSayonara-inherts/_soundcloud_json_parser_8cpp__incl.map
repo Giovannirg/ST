@@ -1,0 +1,25 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/3rdParty/Soundcloud/src/SoundcloudJsonParser.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/3rdParty/Soundcloud/src/SoundcloudJsonParser.cpp">
+<area shape="rect" id="node2" href="$_soundcloud_global_8h.html" title="SoundcloudGlobal.h" alt="" coords="1518,124,1657,151"/>
+<area shape="rect" id="node4" href="$_soundcloud_json_parser_8h.html" title="SoundcloudJsonParser.h" alt="" coords="1708,124,1875,151"/>
+<area shape="rect" id="node11" href="$_helper_8h.html" title="Helper/Helper.h" alt="" coords="1951,124,2064,151"/>
+<area shape="rect" id="node12" href="$_file_helper_8h.html" title="Helper/FileHelper.h" alt="" coords="2193,124,2328,151"/>
+<area shape="rect" id="node14" href="$_artist_8h.html" title="Helper/MetaData/Artist.h" alt="" coords="5,295,172,322"/>
+<area shape="rect" id="node19" href="$_album_8h.html" title="Helper/MetaData/Album.h" alt="" coords="197,295,370,322"/>
+<area shape="rect" id="node20" href="$_meta_data_list_8h.html" title="Helper/MetaData/MetaData\lList.h" alt="" coords="704,199,887,240"/>
+<area shape="rect" id="node27" href="$_genre_8h.html" title="Helper/MetaData/Genre.h" alt="" coords="509,206,679,233"/>
+<area shape="rect" id="node30" href="$_settings_8h.html" title="Helper/Settings/Settings.h" alt="" coords="1123,124,1297,151"/>
+<area shape="rect" id="node37" href="$_logger_8h.html" title="Helper/Logger/Logger.h" alt="" coords="2379,124,2537,151"/>
+<area shape="rect" id="node41" href="$_language_8h.html" title="Helper/Language.h" alt="" coords="1363,124,1494,151"/>
+<area shape="rect" id="node15" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="172,377,373,404"/>
+<area shape="rect" id="node21" href="$_meta_data_8h.html" title="MetaData.h" alt="" coords="394,295,485,322"/>
+<area shape="rect" id="node24" href="$_meta_data_fwd_8h.html" title="MetaDataFwd.h" alt="" coords="559,295,674,322"/>
+<area shape="rect" id="node25" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="1030,377,1155,404"/>
+<area shape="rect" id="node22" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="580,377,675,404"/>
+<area shape="rect" id="node28" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="699,295,807,322"/>
+<area shape="rect" id="node31" href="$_setting_8h.html" title="Helper/Settings/Setting.h" alt="" coords="911,206,1079,233"/>
+<area shape="rect" id="node34" href="$_setting_notifier_8h.html" title="Helper/Settings/SettingNotifier.h" alt="" coords="1257,206,1467,233"/>
+<area shape="rect" id="node36" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="1104,206,1233,233"/>
+<area shape="rect" id="node32" href="$_setting_key_8h.html" title="Helper/Settings/SettingKey.h" alt="" coords="1131,295,1321,322"/>
+<area shape="rect" id="node33" href="$_setting_converter_8h.html" title="Helper/Settings/SettingConverter.h" alt="" coords="831,295,1056,322"/>
+<area shape="rect" id="node35" href="$_abstr_setting_notifier_8h.html" title="Helper/Settings/AbstrSetting\lNotifier.h" alt="" coords="1345,288,1533,329"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/src/3rdParty/Soundcloud/ui_GUI_SoundcloudLibrary.h" name="/home/leonard/Schreibtisch/SW/Projekt/src/3rdParty/Soundcloud/ui_GUI_SoundcloudLibrary.h">
+<area shape="rect" id="node16" href="$_library_table_view_8h.html" title="GUI/Library/Views/Library\lTableView.h" alt="" coords="2403,199,2575,240"/>
+<area shape="rect" id="node46" href="$_library_view_album_8h.html" title="GUI/Library/Views/Library\lViewAlbum.h" alt="" coords="2527,109,2699,151"/>
+<area shape="rect" id="node17" href="$_library_view_8h.html" title="LibraryView.h" alt="" coords="1907,288,2009,315"/>
+<area shape="rect" id="node25" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="1497,459,1605,486"/>
+<area shape="rect" id="node45" href="$_sortorder_8h.html" title="Helper/Library/Sortorder.h" alt="" coords="2405,288,2575,315"/>
+<area shape="rect" id="node18" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="1343,363,1514,404"/>
+<area shape="rect" id="node19" href="$_set_fwd_8h.html" title="Helper/SetFwd.h" alt="" coords="1911,459,2031,486"/>
+<area shape="rect" id="node20" href="$_searchable_view_8h.html" title="GUI/Helper/SearchableWidget\l/SearchableView.h" alt="" coords="951,363,1149,404"/>
+<area shape="rect" id="node31" href="$_dragable_8h.html" title="GUI/Helper/Dragable\l/Dragable.h" alt="" coords="1589,363,1733,404"/>
+<area shape="rect" id="node32" href="$_info_dialog_container_8h.html" title="GUI/InfoDialog/InfoDialog\lContainer.h" alt="" coords="2203,363,2375,404"/>
+<area shape="rect" id="node33" href="$_meta_data_fwd_8h.html" title="Helper/MetaData/MetaData\lFwd.h" alt="" coords="2104,452,2287,493"/>
+<area shape="rect" id="node34" href="$_library_item_model_8h.html" title="GUI/Library/Models\l/LibraryItemModel.h" alt="" coords="1757,363,1895,404"/>
+<area shape="rect" id="node37" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="2399,370,2525,397"/>
+<area shape="rect" id="node40" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="1173,370,1268,397"/>
+<area shape="rect" id="node21" href="$_sayonara_selection_view_8h.html" title="GUI/Helper/SearchableWidget\l/SayonaraSelectionView.h" alt="" coords="667,452,865,493"/>
+<area shape="rect" id="node35" href="$_abstract_search_model_8h.html" title="GUI/Helper/SearchableWidget\l/AbstractSearchModel.h" alt="" coords="1688,452,1887,493"/>
+<area shape="rect" id="node47" href="$_album_8h.html" title="Helper/MetaData/Album.h" alt="" coords="2694,288,2867,315"/>
+<area shape="rect" id="node48" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="2651,459,2852,486"/>
+</map>

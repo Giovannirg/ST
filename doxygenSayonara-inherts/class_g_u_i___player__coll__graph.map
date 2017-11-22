@@ -1,0 +1,20 @@
+<map id="GUI_Player" name="GUI_Player">
+<area shape="rect" id="node2" href="$class_sayonara_main_window.html" title="The SayonaraMainWindow class. " alt="" coords="821,10,973,37"/>
+<area shape="rect" id="node3" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QMainWindow \&gt;" alt="" coords="461,5,633,47"/>
+<area shape="rect" id="node5" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="301,93,412,119"/>
+<area shape="rect" id="node14" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QWidget \&gt;" alt="" coords="461,205,633,247"/>
+<area shape="rect" id="node17" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="461,140,633,181"/>
+<area shape="rect" id="node6" href="$class_settings.html" title="The Settings class. " alt="" coords="125,93,196,119"/>
+<area shape="rect" id="node8" href="$class_shortcut_widget.html" title="Interface that should be implemented when using configurable shortcuts. " alt="" coords="1638,61,1750,87"/>
+<area shape="rect" id="node9" href="$class_global_message_receiver_interface.html" title="The GlobalMessageReceiverInterface class implement this class in order to have the possibility to sho..." alt="" coords="1587,111,1801,138"/>
+<area shape="rect" id="node10" href="$class_ui_1_1_sayonara.html" title="Ui::Sayonara" alt="" coords="1645,162,1743,189"/>
+<area shape="rect" id="node11" href="$class_ui___sayonara.html" title="Ui_Sayonara" alt="" coords="1440,162,1537,189"/>
+<area shape="rect" id="node12" href="$class_g_u_i___player_plugin.html" title="GUI_PlayerPlugin" alt="" coords="1173,213,1300,239"/>
+<area shape="rect" id="node13" href="$class_sayonara_widget.html" title="Widget with Settings connection. Also contains triggers for language_changed() and skin_changed() &#160;wi..." alt="" coords="997,213,1116,239"/>
+<area shape="rect" id="node19" href="$class_g_u_i___playlist.html" title="GUI_Playlist" alt="" coords="1189,263,1285,290"/>
+<area shape="rect" id="node16" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="683,155,797,182"/>
+<area shape="rect" id="node20" href="$class_search_slider.html" title="SearchSlider" alt="" coords="1189,61,1285,87"/>
+<area shape="rect" id="node21" href="$class_sayonara_slider.html" title="The SayonaraSlider class. " alt="" coords="1001,61,1112,87"/>
+<area shape="rect" id="node23" href="$class_sayonara_loading_bar.html" title="The SayonaraLoadingBar class. " alt="" coords="1165,111,1308,138"/>
+<area shape="rect" id="node25" href="$class_cover_button.html" title="The CoverButton class. " alt="" coords="1189,162,1284,189"/>
+</map>

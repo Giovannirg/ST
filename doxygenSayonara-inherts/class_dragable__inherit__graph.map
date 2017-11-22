@@ -1,0 +1,9 @@
+<map id="Dragable" name="Dragable">
+<area shape="rect" id="node2" href="$class_directory_tree_view.html" title="DirectoryTreeView" alt="" coords="5,80,136,107"/>
+<area shape="rect" id="node3" href="$class_file_list_view.html" title="FileListView" alt="" coords="160,80,253,107"/>
+<area shape="rect" id="node4" href="$class_library_view.html" title="LibraryView" alt="" coords="277,80,368,107"/>
+<area shape="rect" id="node8" href="$class_playlist_view.html" title="PlaylistView" alt="" coords="393,80,487,107"/>
+<area shape="rect" id="node5" href="$class_album_cover_view.html" title="AlbumCoverView" alt="" coords="188,155,311,181"/>
+<area shape="rect" id="node6" href="$class_library_table_view.html" title="LibraryTableView" alt="" coords="335,155,457,181"/>
+<area shape="rect" id="node7" href="$class_library_view_album.html" title="LibraryViewAlbum" alt="" coords="333,229,459,256"/>
+</map>

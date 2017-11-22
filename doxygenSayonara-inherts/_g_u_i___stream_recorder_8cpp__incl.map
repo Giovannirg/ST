@@ -1,0 +1,33 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Preferences/StreamRecorder/GUI_StreamRecorder.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Preferences/StreamRecorder/GUI_StreamRecorder.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___stream_recorder_8h.html" title="GUI_StreamRecorder.h" alt="" coords="486,131,645,158"/>
+<area shape="rect" id="node5" href="$ui___g_u_i___stream_recorder_8h.html" title="GUI/Preferences/ui\l_GUI_StreamRecorder.h" alt="" coords="1219,124,1386,165"/>
+<area shape="rect" id="node17" href="$_database_connector_8h.html" title="Database/DatabaseConnector.h" alt="" coords="4875,131,5085,158"/>
+<area shape="rect" id="node40" href="$_message_8h.html" title="Helper/Message/Message.h" alt="" coords="2798,221,2983,247"/>
+<area shape="rect" id="node42" href="$_settings_8h.html" title="Helper/Settings/Settings.h" alt="" coords="2479,131,2654,158"/>
+<area shape="rect" id="node48" href="$_language_8h.html" title="Helper/Language.h" alt="" coords="2209,131,2340,158"/>
+<area shape="rect" id="node3" href="$_preference_widget_interface_8h.html" title="Interfaces/PreferenceDialog\l/PreferenceWidgetInterface.h" alt="" coords="5,213,197,255"/>
+<area shape="rect" id="node4" href="$_preference_interface_8h.html" title="PreferenceInterface.h" alt="" coords="28,310,175,337"/>
+<area shape="rect" id="node18" href="$_library_database_8h.html" title="Database/LibraryDatabase.h" alt="" coords="4009,221,4197,247"/>
+<area shape="rect" id="node23" href="$_database_module_8h.html" title="Database/DatabaseModule.h" alt="" coords="4818,392,5009,419"/>
+<area shape="rect" id="node31" href="$_database_bookmarks_8h.html" title="Database/DatabaseBookmarks.h" alt="" coords="5306,310,5521,337"/>
+<area shape="rect" id="node32" href="$_database_playlist_8h.html" title="Database/DatabasePlaylist.h" alt="" coords="4884,221,5076,247"/>
+<area shape="rect" id="node36" href="$_database_podcasts_8h.html" title="Database/DatabasePodcasts.h" alt="" coords="5545,310,5749,337"/>
+<area shape="rect" id="node37" href="$_database_settings_8h.html" title="Database/DatabaseSettings.h" alt="" coords="5179,221,5376,247"/>
+<area shape="rect" id="node38" href="$_database_streams_8h.html" title="Database/DatabaseStreams.h" alt="" coords="5773,310,5971,337"/>
+<area shape="rect" id="node39" href="$_database_vis_styles_8h.html" title="Database/DatabaseVisStyles.h" alt="" coords="3499,310,3704,337"/>
+<area shape="rect" id="node19" href="$_abstract_database_8h.html" title="Database/AbstractDatabase.h" alt="" coords="2977,310,3175,337"/>
+<area shape="rect" id="node22" href="$_database_albums_8h.html" title="Database/DatabaseAlbums.h" alt="" coords="4101,310,4294,337"/>
+<area shape="rect" id="node24" href="$_database_artists_8h.html" title="Database/DatabaseArtists.h" alt="" coords="4543,310,4729,337"/>
+<area shape="rect" id="node25" href="$_database_tracks_8h.html" title="Database/DatabaseTracks.h" alt="" coords="3728,310,3917,337"/>
+<area shape="rect" id="node27" href="$_database_library_8h.html" title="Database/DatabaseLibrary.h" alt="" coords="4754,310,4942,337"/>
+<area shape="rect" id="node28" href="$_database_handler_8h.html" title="DatabaseHandler.h" alt="" coords="3942,310,4077,337"/>
+<area shape="rect" id="node29" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="2826,392,2955,419"/>
+<area shape="rect" id="node33" href="$_custom_playlist_fwd_8h.html" title="Helper/Playlist/CustomPlaylist\lFwd.h" alt="" coords="4319,303,4519,344"/>
+<area shape="rect" id="node35" href="$_playlist_2_sorting_8h.html" title="Helper/Playlist/Sorting.h" alt="" coords="5017,310,5180,337"/>
+<area shape="rect" id="node41" href="$_global_message_8h.html" title="GlobalMessage.h" alt="" coords="2829,310,2952,337"/>
+<area shape="rect" id="node43" href="$_setting_8h.html" title="Helper/Settings/Setting.h" alt="" coords="2544,221,2712,247"/>
+<area shape="rect" id="node47" href="$_setting_notifier_8h.html" title="Helper/Settings/SettingNotifier.h" alt="" coords="2196,310,2407,337"/>
+<area shape="rect" id="node44" href="$_setting_key_8h.html" title="Helper/Settings/SettingKey.h" alt="" coords="2614,310,2805,337"/>
+<area shape="rect" id="node45" href="$_setting_converter_8h.html" title="Helper/Settings/SettingConverter.h" alt="" coords="3249,310,3474,337"/>
+<area shape="rect" id="node46" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="2482,310,2590,337"/>
+</map>

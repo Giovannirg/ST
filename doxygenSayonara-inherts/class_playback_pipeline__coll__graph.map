@@ -1,0 +1,7 @@
+<map id="PlaybackPipeline" name="PlaybackPipeline">
+<area shape="rect" id="node2" href="$class_abstract_pipeline.html" title="The AbstractPipeline class. " alt="" coords="5,247,123,273"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="91,81,162,108"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="86,171,197,197"/>
+<area shape="rect" id="node6" href="$class_cross_fader.html" title="The CrossFader class. " alt="" coords="147,247,237,273"/>
+<area shape="rect" id="node7" href="$class_changeable_pipeline.html" title="The ChangeablePipeline class. " alt="" coords="262,247,399,273"/>
+</map>

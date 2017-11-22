@@ -1,0 +1,15 @@
+<map id="Ui::Sayonara" name="Ui::Sayonara">
+<area shape="rect" id="node2" href="$class_ui___sayonara.html" title="Ui_Sayonara" alt="" coords="327,607,424,633"/>
+<area shape="rect" id="node3" href="$class_g_u_i___player_plugin.html" title="GUI_PlayerPlugin" alt="" coords="176,503,303,529"/>
+<area shape="rect" id="node4" href="$class_sayonara_widget.html" title="Widget with Settings connection. Also contains triggers for language_changed() and skin_changed() &#160;wi..." alt="" coords="80,427,199,453"/>
+<area shape="rect" id="node13" href="$class_g_u_i___playlist.html" title="GUI_Playlist" alt="" coords="55,503,151,529"/>
+<area shape="rect" id="node5" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QWidget \&gt;" alt="" coords="201,247,373,288"/>
+<area shape="rect" id="node7" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="133,171,244,197"/>
+<area shape="rect" id="node11" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="5,247,177,288"/>
+<area shape="rect" id="node8" href="$class_settings.html" title="The Settings class. " alt="" coords="153,81,224,108"/>
+<area shape="rect" id="node10" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="50,337,165,364"/>
+<area shape="rect" id="node14" href="$class_search_slider.html" title="SearchSlider" alt="" coords="327,503,423,529"/>
+<area shape="rect" id="node15" href="$class_sayonara_slider.html" title="The SayonaraSlider class. " alt="" coords="320,427,431,453"/>
+<area shape="rect" id="node17" href="$class_sayonara_loading_bar.html" title="The SayonaraLoadingBar class. " alt="" coords="448,503,591,529"/>
+<area shape="rect" id="node19" href="$class_cover_button.html" title="The CoverButton class. " alt="" coords="615,503,709,529"/>
+</map>

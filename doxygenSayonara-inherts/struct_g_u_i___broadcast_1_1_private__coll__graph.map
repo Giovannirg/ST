@@ -1,0 +1,5 @@
+<map id="GUI_Broadcast::Private" name="GUI_Broadcast::Private">
+<area shape="rect" id="node2" href="$class_stream_server.html" title="The StreamServer class. This class is listening for new connections and holds and administrates curre..." alt="" coords="35,247,137,273"/>
+<area shape="rect" id="node4" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="109,171,220,197"/>
+<area shape="rect" id="node5" href="$class_settings.html" title="The Settings class. " alt="" coords="129,81,200,108"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="SearchModelFunctionality" name="SearchModelFunctionality">
+<area shape="rect" id="node2" href="$class_search_model_interface.html" title="SearchModelInterface\l\&lt; AbstractModel \&gt;" alt="" coords="229,169,379,211"/>
+<area shape="rect" id="node12" href="$class_search_model_interface.html" title="SearchModelInterface\l\&lt; QFileSystemModel \&gt;" alt="" coords="225,264,383,305"/>
+<area shape="rect" id="node3" href="$class_date_search_model.html" title="DateSearchModel\&lt; QAbstract\lListModel \&gt;" alt="" coords="431,5,628,47"/>
+<area shape="rect" id="node4" href="$class_file_list_model.html" title="FileListModel\&lt; QAbstract\lListModel \&gt;" alt="" coords="444,71,615,112"/>
+<area shape="rect" id="node5" href="$class_library_item_model.html" title="LibraryItemModel\&lt; QAbstract\lTableModel \&gt;" alt="" coords="433,136,626,177"/>
+<area shape="rect" id="node10" href="$class_playlist_item_model.html" title="PlaylistItemModel\&lt;\l QAbstractListModel \&gt;" alt="" coords="453,201,606,243"/>
+<area shape="rect" id="node11" href="$class_soma_f_m_station_model.html" title="SomaFMStationModel\l\&lt; QAbstractTableModel \&gt;" alt="" coords="443,267,615,308"/>
+<area shape="rect" id="node6" href="$class_album_cover_model.html" title="AlbumCoverModel" alt="" coords="695,67,824,94"/>
+<area shape="rect" id="node7" href="$class_library_item_model_albums.html" title="LibraryItemModelAlbums" alt="" coords="676,118,843,145"/>
+<area shape="rect" id="node8" href="$class_library_item_model_artists.html" title="LibraryItemModelArtists" alt="" coords="679,169,839,195"/>
+<area shape="rect" id="node9" href="$class_library_item_model_tracks.html" title="LibraryItemModelTracks" alt="" coords="678,219,841,246"/>
+<area shape="rect" id="node13" href="$class_searchable_file_tree_model.html" title="The SearchableFileTreeModel class. " alt="" coords="445,333,614,359"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_q_map.html" title="QMap\&lt; QString, QStringList \&gt;" alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node2" href="$struct_raw_shortcut_map.html" title="The RawShortcutMap struct consisting of a specifier writable into database and a shortcut. This class is used for converting a shortcut map into its database representation. " alt="" coords="252,5,375,32"/>
+</map>

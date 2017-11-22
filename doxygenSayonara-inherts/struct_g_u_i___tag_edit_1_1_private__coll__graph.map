@@ -1,0 +1,6 @@
+<map id="GUI_TagEdit::Private" name="GUI_TagEdit::Private">
+<area shape="rect" id="node2" href="$class_q_map.html" title="QMap\&lt; Tag, ReplacedString \&gt;" alt="" coords="5,81,205,108"/>
+<area shape="rect" id="node3" href="$class_q_map.html" title="QMap\&lt; int, QString \&gt;" alt="" coords="229,81,376,108"/>
+<area shape="rect" id="node4" href="$class_tag_expression.html" title="The TagExpression class. " alt="" coords="400,81,509,108"/>
+<area shape="rect" id="node5" href="$class_tag_edit.html" title="The TagEdit class Metadata has to be added using the set_metadata(const MetaDataList&amp;) method..." alt="" coords="539,81,605,108"/>
+</map>

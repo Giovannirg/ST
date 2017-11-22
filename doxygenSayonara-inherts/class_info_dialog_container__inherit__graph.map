@@ -1,0 +1,8 @@
+<map id="InfoDialogContainer" name="InfoDialogContainer">
+<area shape="rect" id="node2" href="$class_g_u_i___directory_widget.html" title="GUI_DirectoryWidget" alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$class_library_view.html" title="LibraryView" alt="" coords="176,80,267,107"/>
+<area shape="rect" id="node7" href="$class_playlist_view.html" title="PlaylistView" alt="" coords="291,80,386,107"/>
+<area shape="rect" id="node4" href="$class_album_cover_view.html" title="AlbumCoverView" alt="" coords="87,155,209,181"/>
+<area shape="rect" id="node5" href="$class_library_table_view.html" title="LibraryTableView" alt="" coords="233,155,356,181"/>
+<area shape="rect" id="node6" href="$class_library_view_album.html" title="LibraryViewAlbum" alt="" coords="231,229,358,256"/>
+</map>

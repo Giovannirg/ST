@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['id3v1',['ID3v1',['../namespace_tagging.html#af6a933172fe8887651398e40537712deab8fde6964bdb22a20713895b01aae4c0',1,'Tagging']]],
+  ['id3v2',['ID3v2',['../namespace_tagging.html#af6a933172fe8887651398e40537712deaef974b485b0d64343743e1999afb6862',1,'Tagging']]],
+  ['idasc',['IDAsc',['../namespace_playlist.html#a06f9b35ca37c1e05a982340f4b2b7956a08626e63a44ce69b6ce0cec7a4078f1f',1,'Playlist']]],
+  ['iddesc',['IDDesc',['../namespace_playlist.html#a06f9b35ca37c1e05a982340f4b2b7956a54356653d4c3e036e697b0cc6870f9a4',1,'Playlist']]],
+  ['ignore',['Ignore',['../class_stream_http_parser.html#a6c375e5d61636b7c2c10ec674d0e9422afd038fc7f319e48f3115d92bf5bdbef9',1,'StreamHttpParser']]],
+  ['importdir',['ImportDir',['../class_lang.html#a581064a39efb1c79bd0ae62596cd9e1aa8904952922c7fde1f61dc46f6f682950',1,'Lang']]],
+  ['imported',['Imported',['../class_library_importer.html#a3c1facde4b79640b3d2ad6291c57aafea858a2b552953bc182248fe9374646398',1,'LibraryImporter']]],
+  ['importfiles',['ImportFiles',['../class_lang.html#a581064a39efb1c79bd0ae62596cd9e1aac044697d1c1e36fa4c3aebe85895c6d4',1,'Lang']]],
+  ['importing',['Importing',['../class_library_importer.html#a3c1facde4b79640b3d2ad6291c57aafeacd804333d16ac675a7605cf03f787ec6',1,'LibraryImporter']]],
+  ['inactive',['Inactive',['../class_lang.html#a581064a39efb1c79bd0ae62596cd9e1aa1cb524e89376fb24fa84e4f0f62f2bc7',1,'Lang']]],
+  ['info',['Info',['../class_lang.html#a581064a39efb1c79bd0ae62596cd9e1aaea9853ac0a810453fb7ee70ff409ce68',1,'Lang::Info()'],['../class_g_u_i___info_dialog.html#afdb5cf2194e16bad85e2e1864e486c5aa4059b0251f66a18cb56f544728796875',1,'GUI_InfoDialog::Info()'],['../_logger_8h.html#a1a0dd2c5fda3ce4565207900b85dc171a4059b0251f66a18cb56f544728796875',1,'Info():&#160;Logger.h']]],
+  ['instancemessagenone',['InstanceMessageNone',['../_instance_thread_8h.html#a762e471412bbf8235854dbf0542b6a02aca8db9a7589f77ef14c09fdaf7102eb5',1,'InstanceThread.h']]],
+  ['instancemessagewithfiles',['InstanceMessageWithFiles',['../_instance_thread_8h.html#a762e471412bbf8235854dbf0542b6a02af4f33dac396e7a1347c874c9138a1b99',1,'InstanceThread.h']]],
+  ['instancemessagewithoutfiles',['InstanceMessageWithoutFiles',['../_instance_thread_8h.html#a762e471412bbf8235854dbf0542b6a02a654dd9a2e69df762fc4ce2a6b39c2bb5',1,'InstanceThread.h']]],
+  ['invalid',['Invalid',['../class_stream_writer.html#a74a4bb801486b8c1459e78d77c2306e8a4bbb8f967da6d1a610596d7257179c2b',1,'StreamWriter']]],
+  ['items',['Items',['../class_sayonara_selection_view.html#ae2866069798feaebca5e1f0183e84d8da9dea4016dbcc290b773ab2fae678aaa8',1,'SayonaraSelectionView']]]
+];

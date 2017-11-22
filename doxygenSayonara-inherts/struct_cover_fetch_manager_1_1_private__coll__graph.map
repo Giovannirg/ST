@@ -1,0 +1,6 @@
+<map id="CoverFetchManager::Private" name="CoverFetchManager::Private">
+<area shape="rect" id="node2" href="$class_standard_cover_fetcher.html" title="The StandardCoverFetcher class. Convenience class for local cover search. See CoverFetcherInterface. " alt="" coords="5,81,159,108"/>
+<area shape="rect" id="node3" href="$class_cover_fetcher_interface.html" title="The CoverFetcherInterface interface. " alt="" coords="6,5,158,32"/>
+<area shape="rect" id="node4" href="$class_q_map.html" title="QMap\&lt; QString, int \&gt;" alt="" coords="183,81,330,108"/>
+<area shape="rect" id="node5" href="$class_q_list.html" title="QList\&lt; CoverFetcherInterface *\&gt;" alt="" coords="355,81,567,108"/>
+</map>

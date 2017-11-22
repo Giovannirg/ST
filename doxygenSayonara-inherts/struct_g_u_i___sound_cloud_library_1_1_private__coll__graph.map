@@ -1,0 +1,7 @@
+<map id="GUI_SoundCloudLibrary::Private" name="GUI_SoundCloudLibrary::Private">
+<area shape="rect" id="node2" href="$class_g_u_i___soundcloud_artist_search.html" title="GUI_SoundcloudArtistSearch" alt="" coords="5,413,199,440"/>
+<area shape="rect" id="node3" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="45,337,159,364"/>
+<area shape="rect" id="node4" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="16,247,188,288"/>
+<area shape="rect" id="node6" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="125,171,236,197"/>
+<area shape="rect" id="node7" href="$class_settings.html" title="The Settings class. " alt="" coords="145,81,216,108"/>
+</map>

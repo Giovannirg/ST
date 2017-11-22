@@ -1,0 +1,21 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Playlist/Delegate/PlaylistItemDelegate.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Playlist/Delegate/PlaylistItemDelegate.cpp">
+<area shape="rect" id="node7" href="$_helper_8h.html" title="Helper/Helper.h" alt="" coords="583,206,696,233"/>
+<area shape="rect" id="node9" href="$_meta_data_8h.html" title="Helper/MetaData/MetaData.h" alt="" coords="395,295,588,322"/>
+<area shape="rect" id="node17" href="$_settings_8h.html" title="Helper/Settings/Settings.h" alt="" coords="845,124,1020,151"/>
+<area shape="rect" id="node29" href="$_playlist_item_delegate_8h.html" title="PlaylistItemDelegate.h" alt="" coords="1279,124,1434,151"/>
+<area shape="rect" id="node32" href="$_playlist_item_model_8h.html" title="GUI/Playlist/Model\l/PlaylistItemModel.h" alt="" coords="1631,199,1773,240"/>
+<area shape="rect" id="node10" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="561,377,763,404"/>
+<area shape="rect" id="node13" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="327,377,421,404"/>
+<area shape="rect" id="node18" href="$_setting_8h.html" title="Helper/Settings/Setting.h" alt="" coords="955,206,1123,233"/>
+<area shape="rect" id="node26" href="$_setting_notifier_8h.html" title="Helper/Settings/SettingNotifier.h" alt="" coords="721,206,931,233"/>
+<area shape="rect" id="node28" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="1148,206,1277,233"/>
+<area shape="rect" id="node19" href="$_setting_key_8h.html" title="Helper/Settings/SettingKey.h" alt="" coords="1176,295,1367,322"/>
+<area shape="rect" id="node23" href="$_setting_converter_8h.html" title="Helper/Settings/SettingConverter.h" alt="" coords="927,295,1152,322"/>
+<area shape="rect" id="node24" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="1391,295,1499,322"/>
+<area shape="rect" id="node20" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="1246,377,1371,404"/>
+<area shape="rect" id="node27" href="$_abstr_setting_notifier_8h.html" title="Helper/Settings/AbstrSetting\lNotifier.h" alt="" coords="664,288,852,329"/>
+<area shape="rect" id="node31" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="1437,199,1607,240"/>
+<area shape="rect" id="node33" href="$_abstract_search_model_8h.html" title="GUI/Helper/SearchableWidget\l/AbstractSearchModel.h" alt="" coords="1881,288,2080,329"/>
+<area shape="rect" id="node39" href="$_playlist_fwd_8h.html" title="Helper/Playlist/Playlist\lFwd.h" alt="" coords="1574,288,1729,329"/>
+<area shape="rect" id="node37" href="$_search_mode_8h.html" title="Helper/Library/SearchMode.h" alt="" coords="1680,377,1871,404"/>
+</map>

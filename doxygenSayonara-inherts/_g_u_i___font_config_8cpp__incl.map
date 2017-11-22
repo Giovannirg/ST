@@ -1,0 +1,20 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Preferences/Fonts/GUI_FontConfig.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Preferences/Fonts/GUI_FontConfig.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___font_config_8h.html" title="GUI_FontConfig.h" alt="" coords="812,131,940,158"/>
+<area shape="rect" id="node14" href="$ui___g_u_i___font_config_8h.html" title="GUI/Preferences/ui\l_GUI_FontConfig.h" alt="" coords="1701,124,1835,165"/>
+<area shape="rect" id="node30" href="$_settings_8h.html" title="Helper/Settings/Settings.h" alt="" coords="3339,131,3514,158"/>
+<area shape="rect" id="node46" href="$_language_8h.html" title="Helper/Language.h" alt="" coords="3547,310,3677,337"/>
+<area shape="rect" id="node3" href="$_preference_widget_interface_8h.html" title="Interfaces/PreferenceDialog\l/PreferenceWidgetInterface.h" alt="" coords="129,213,321,255"/>
+<area shape="rect" id="node4" href="$_preference_interface_8h.html" title="PreferenceInterface.h" alt="" coords="152,310,299,337"/>
+<area shape="rect" id="node7" href="$_sayonara_dialog_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraDialog.h" alt="" coords="426,392,614,433"/>
+<area shape="rect" id="node11" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="214,392,402,433"/>
+<area shape="rect" id="node8" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="369,481,551,508"/>
+<area shape="rect" id="node9" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="375,556,545,597"/>
+<area shape="rect" id="node31" href="$_setting_8h.html" title="Helper/Settings/Setting.h" alt="" coords="3044,221,3212,247"/>
+<area shape="rect" id="node42" href="$_setting_notifier_8h.html" title="Helper/Settings/SettingNotifier.h" alt="" coords="3236,221,3447,247"/>
+<area shape="rect" id="node45" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="3470,221,3599,247"/>
+<area shape="rect" id="node32" href="$_setting_key_8h.html" title="Helper/Settings/SettingKey.h" alt="" coords="2854,310,3045,337"/>
+<area shape="rect" id="node38" href="$_setting_converter_8h.html" title="Helper/Settings/SettingConverter.h" alt="" coords="3130,399,3355,426"/>
+<area shape="rect" id="node40" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="3069,310,3177,337"/>
+<area shape="rect" id="node33" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="2887,399,3012,426"/>
+<area shape="rect" id="node44" href="$_abstr_setting_notifier_8h.html" title="Helper/Settings/AbstrSetting\lNotifier.h" alt="" coords="3253,303,3441,344"/>
+</map>

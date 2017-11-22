@@ -1,0 +1,4 @@
+<map id="Shortcut::Private" name="Shortcut::Private">
+<area shape="rect" id="node2" href="$class_shortcut_widget.html" title="Interface that should be implemented when using configurable shortcuts. " alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node3" href="$class_q_list.html" title="QList\&lt; QShortcut *\&gt;" alt="" coords="141,5,283,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Basic Components" name="Basic Components">
+<area shape="rect" id="node1" href="$group___covers.html" title="Contains everythin about cover management. Logic and UI. " alt="" coords="212,5,276,32"/>
+<area shape="rect" id="node2" href="$group___lyrics.html" title="Lyrics Classes" alt="" coords="189,56,299,83"/>
+<area shape="rect" id="node4" href="$group___streams.html" title="Streams" alt="" coords="209,107,279,133"/>
+<area shape="rect" id="node5" href="$group___tagging.html" title="Metadata tagging. " alt="" coords="210,157,278,184"/>
+<area shape="rect" id="node6" href="$group___engine.html" title="Contains classes used for Sound. " alt="" coords="213,208,275,235"/>
+<area shape="rect" id="node7" href="$group___playlists.html" title="Playlists" alt="" coords="208,259,280,285"/>
+<area shape="rect" id="node8" href="$group___library.html" title="Basic library functions. " alt="" coords="213,309,275,336"/>
+<area shape="rect" id="node9" href="$group___broadcasting.html" title="Broadcasting" alt="" coords="195,360,293,387"/>
+<area shape="rect" id="node10" href="$group___m_t_p.html" title="MTP Structures" alt="" coords="187,411,301,437"/>
+</map>

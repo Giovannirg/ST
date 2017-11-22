@@ -1,0 +1,11 @@
+<map id="LibraryView" name="LibraryView">
+<area shape="rect" id="node9" href="$class_album_cover_view.html" title="AlbumCoverView" alt="" coords="226,304,349,331"/>
+<area shape="rect" id="node10" href="$class_library_table_view.html" title="LibraryTableView" alt="" coords="373,304,495,331"/>
+<area shape="rect" id="node2" href="$class_search_view_interface.html" title="SearchableTableView" alt="" coords="60,155,208,181"/>
+<area shape="rect" id="node4" href="$class_search_view_functionality.html" title="The SearchViewInterface class. " alt="" coords="129,80,296,107"/>
+<area shape="rect" id="node5" href="$class_sayonara_selection_view.html" title="The SayonaraSelectionView class. " alt="" coords="133,5,293,32"/>
+<area shape="rect" id="node6" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="232,155,343,181"/>
+<area shape="rect" id="node7" href="$class_info_dialog_container.html" title="An interface used to abstract the usage of the info dialog. An implementing class has to return the i..." alt="" coords="367,155,504,181"/>
+<area shape="rect" id="node8" href="$class_dragable.html" title="The Dragable class. " alt="" coords="529,155,603,181"/>
+<area shape="rect" id="node11" href="$class_library_view_album.html" title="LibraryViewAlbum" alt="" coords="371,379,497,405"/>
+</map>

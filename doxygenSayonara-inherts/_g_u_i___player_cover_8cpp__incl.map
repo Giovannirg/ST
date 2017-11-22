@@ -1,0 +1,20 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Player/GUI_PlayerCover.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/Player/GUI_PlayerCover.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___player_8h.html" title="GUI_Player.h" alt="" coords="1811,124,1912,151"/>
+<area shape="rect" id="node47" href="$_cover_location_8h.html" title="Components/Covers/CoverLocation.h" alt="" coords="803,206,1045,233"/>
+<area shape="rect" id="node3" href="$ui___g_u_i___player_8h.html" title="GUI/Player/ui_GUI_Player.h" alt="" coords="2637,206,2824,233"/>
+<area shape="rect" id="node31" href="$_play_state_8h.html" title="Components/PlayManager\l/PlayState.h" alt="" coords="905,377,1081,419"/>
+<area shape="rect" id="node34" href="$_sayonara_widget_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraWidget.h" alt="" coords="3914,377,4102,419"/>
+<area shape="rect" id="node38" href="$_meta_data_8h.html" title="Helper/MetaData/MetaData.h" alt="" coords="531,206,725,233"/>
+<area shape="rect" id="node44" href="$_global_message_receiver_interface_8h.html" title="Helper/Message/GlobalMessage\lReceiverInterface.h" alt="" coords="5,288,216,329"/>
+<area shape="rect" id="node45" href="$_shortcut_widget_8h.html" title="GUI/Helper/Shortcuts\l/ShortcutWidget.h" alt="" coords="2849,199,2997,240"/>
+<area shape="rect" id="node22" href="$_cover_button_8h.html" title="GUI/Covers/CoverButton.h" alt="" coords="2914,295,3094,322"/>
+<area shape="rect" id="node26" href="$_sayonara_loading_bar_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraLoadingBar.h" alt="" coords="4903,288,5091,329"/>
+<area shape="rect" id="node28" href="$_search_slider_8h.html" title="GUI/Player/SearchSlider.h" alt="" coords="3285,295,3461,322"/>
+<area shape="rect" id="node29" href="$_g_u_i___playlist_8h.html" title="GUI/Playlist/GUI_Playlist.h" alt="" coords="811,295,994,322"/>
+<area shape="rect" id="node33" href="$_g_u_i___player_plugin_8h.html" title="GUI/Plugins/Generic\l/GUI_PlayerPlugin.h" alt="" coords="3118,288,3261,329"/>
+<area shape="rect" id="node24" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="2009,385,2117,411"/>
+<area shape="rect" id="node30" href="$_global_message_8h.html" title="Helper/Message/GlobalMessage.h" alt="" coords="426,385,649,411"/>
+<area shape="rect" id="node35" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="3917,467,4099,493"/>
+<area shape="rect" id="node39" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="241,295,442,322"/>
+<area shape="rect" id="node41" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="466,295,561,322"/>
+</map>

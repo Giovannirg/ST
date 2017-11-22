@@ -1,0 +1,7 @@
+<map id="PreferenceDialogInterface" name="PreferenceDialogInterface">
+<area shape="rect" id="node2" href="$class_preference_interface.html" title="PreferenceInterface\l\&lt; SayonaraDialog \&gt;" alt="" coords="23,413,161,455"/>
+<area shape="rect" id="node3" href="$class_sayonara_dialog.html" title="Dialog with Settings connection. Also contains triggers for language_changed() and skin_changed()..." alt="" coords="35,337,149,364"/>
+<area shape="rect" id="node4" href="$class_sayonara_widget_template.html" title="SayonaraWidgetTemplate\l\&lt; QDialog \&gt;" alt="" coords="6,247,178,288"/>
+<area shape="rect" id="node6" href="$class_sayonara_class.html" title="The SayonaraClass class provides access to Settings and notifications. " alt="" coords="115,171,226,197"/>
+<area shape="rect" id="node7" href="$class_settings.html" title="The Settings class. " alt="" coords="135,81,206,108"/>
+</map>

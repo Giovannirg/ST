@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_search_model_interface.html" title="SearchModelInterface\l\&lt; AbstractModel \&gt;" alt="" coords="229,125,379,166"/>
+<area shape="rect" id="node3" href="$class_date_search_model.html" title="DateSearchModel" alt="" coords="452,5,579,32"/>
+<area shape="rect" id="node4" href="$class_file_list_model.html" title="FileListModel" alt="" coords="466,56,565,83"/>
+<area shape="rect" id="node5" href="$class_library_item_model.html" title="LibraryItemModel" alt="" coords="454,107,577,133"/>
+<area shape="rect" id="node10" href="$class_playlist_item_model.html" title="PlaylistItemModel" alt="" coords="452,157,579,184"/>
+<area shape="rect" id="node11" href="$class_soma_f_m_station_model.html" title="SomaFMStationModel" alt="" coords="440,208,591,235"/>
+<area shape="rect" id="node6" href="$class_album_cover_model.html" title="AlbumCoverModel" alt="" coords="667,31,796,57"/>
+<area shape="rect" id="node7" href="$class_library_item_model_albums.html" title="LibraryItemModelAlbums" alt="" coords="648,81,815,108"/>
+<area shape="rect" id="node8" href="$class_library_item_model_artists.html" title="LibraryItemModelArtists" alt="" coords="651,132,811,159"/>
+<area shape="rect" id="node9" href="$class_library_item_model_tracks.html" title="LibraryItemModelTracks" alt="" coords="650,183,813,209"/>
+<area shape="rect" id="node13" href="$class_search_model_interface.html" title="SearchModelInterface\l\&lt; QFileSystemModel \&gt;" alt="" coords="225,239,383,281"/>
+<area shape="rect" id="node14" href="$class_searchable_file_tree_model.html" title="The SearchableFileTreeModel class. " alt="" coords="431,259,600,285"/>
+<area shape="rect" id="node15" href="$class_search_model_functionality.html" title="SearchModelFunctionality" alt="" coords="5,183,177,209"/>
+</map>

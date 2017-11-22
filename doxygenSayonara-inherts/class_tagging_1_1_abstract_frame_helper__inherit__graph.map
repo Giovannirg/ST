@@ -1,0 +1,31 @@
+<map id="Tagging::AbstractFrameHelper" name="Tagging::AbstractFrameHelper">
+<area shape="rect" id="node2" href="$class_tagging_1_1_abstract_frame.html" title="Tagging::AbstractFrame\l\&lt; TagLib::ID3v2::Tag \&gt;" alt="" coords="276,212,439,253"/>
+<area shape="rect" id="node12" href="$class_tagging_1_1_abstract_frame.html" title="Tagging::AbstractFrame\l\&lt; TagLib::MP4::Tag \&gt;" alt="" coords="276,569,439,611"/>
+<area shape="rect" id="node22" href="$class_tagging_1_1_abstract_frame.html" title="Tagging::AbstractFrame\l\&lt; TagLib::Ogg::XiphComment \&gt;" alt="" coords="253,741,461,783"/>
+<area shape="rect" id="node30" href="$class_tagging_1_1_abstract_frame.html" title="Tagging::AbstractFrame\l\&lt; TagImpl \&gt;" alt="" coords="276,807,439,848"/>
+<area shape="rect" id="node3" href="$class_i_d3v2_1_1_i_d3v2_frame.html" title="The AbstractFrame class for example AbstractFrame&lt;Discnumber, TagLib::ID3v2::TextIdentificationFrame&gt;..." alt="" coords="518,5,717,47"/>
+<area shape="rect" id="node4" href="$class_i_d3v2_1_1_i_d3v2_frame.html" title="ID3v2::ID3v2Frame\&lt;\l Models::Cover, TagLib\l::ID3v2::AttachedPictureFrame \&gt;" alt="" coords="510,70,725,126"/>
+<area shape="rect" id="node6" href="$class_i_d3v2_1_1_i_d3v2_frame.html" title="ID3v2::ID3v2Frame\&lt;\l Models::Discnumber,\l TagLib::ID3v2::TextIdentification\lFrame \&gt;" alt="" coords="509,151,725,221"/>
+<area shape="rect" id="node8" href="$class_i_d3v2_1_1_i_d3v2_frame.html" title="ID3v2::ID3v2Frame\&lt;\l Models::Popularimeter,\l TagLib::ID3v2::Popularimeter\lFrame \&gt;" alt="" coords="519,245,715,316"/>
+<area shape="rect" id="node10" href="$class_i_d3v2_1_1_i_d3v2_frame.html" title="ID3v2::ID3v2Frame\&lt;\l QString, TagLib::ID3v2\l::TextIdentificationFrame \&gt;" alt="" coords="528,341,707,397"/>
+<area shape="rect" id="node5" href="$class_i_d3v2_1_1_cover_frame.html" title="The DiscnumberFrame class. " alt="" coords="796,85,933,111"/>
+<area shape="rect" id="node7" href="$class_i_d3v2_1_1_discnumber_frame.html" title="The DiscnumberFrame class. " alt="" coords="779,173,951,199"/>
+<area shape="rect" id="node9" href="$class_i_d3v2_1_1_popularimeter_frame.html" title="The PopularimeterFrame class. " alt="" coords="773,267,956,294"/>
+<area shape="rect" id="node11" href="$class_i_d3v2_1_1_album_artist_frame.html" title="The AlbumArtistFrame class. " alt="" coords="779,355,950,382"/>
+<area shape="rect" id="node13" href="$class_m_p4_1_1_m_p4_frame.html" title="MP4::MP4Frame\&lt; Model_t \&gt;" alt="" coords="522,421,713,447"/>
+<area shape="rect" id="node14" href="$class_m_p4_1_1_m_p4_frame.html" title="MP4::MP4Frame\&lt; Models\l::Cover \&gt;" alt="" coords="530,472,705,513"/>
+<area shape="rect" id="node16" href="$class_m_p4_1_1_m_p4_frame.html" title="MP4::MP4Frame\&lt; Models\l::Discnumber \&gt;" alt="" coords="530,537,705,579"/>
+<area shape="rect" id="node18" href="$class_m_p4_1_1_m_p4_frame.html" title="MP4::MP4Frame\&lt; Models\l::Popularimeter \&gt;" alt="" coords="530,603,705,644"/>
+<area shape="rect" id="node20" href="$class_m_p4_1_1_m_p4_frame.html" title="MP4::MP4Frame\&lt; QString \&gt;" alt="" coords="523,669,712,695"/>
+<area shape="rect" id="node15" href="$class_m_p4_1_1_cover_frame.html" title="MP4::CoverFrame" alt="" coords="800,479,929,506"/>
+<area shape="rect" id="node17" href="$class_m_p4_1_1_discnumber_frame.html" title="The DiscnumberFrame class. " alt="" coords="783,545,947,571"/>
+<area shape="rect" id="node19" href="$class_m_p4_1_1_popularimeter_frame.html" title="MP4::PopularimeterFrame" alt="" coords="777,610,952,637"/>
+<area shape="rect" id="node21" href="$class_m_p4_1_1_album_artist_frame.html" title="MP4::AlbumArtistFrame" alt="" coords="783,669,946,695"/>
+<area shape="rect" id="node23" href="$class_xiph_1_1_xiph_frame.html" title="Xiph::XiphFrame\&lt; Model_t \&gt;" alt="" coords="523,719,712,746"/>
+<area shape="rect" id="node24" href="$class_xiph_1_1_xiph_frame.html" title="Xiph::XiphFrame\&lt; Models\l::Discnumber \&gt;" alt="" coords="531,771,704,812"/>
+<area shape="rect" id="node26" href="$class_xiph_1_1_xiph_frame.html" title="Xiph::XiphFrame\&lt; Models\l::Popularimeter \&gt;" alt="" coords="531,836,704,877"/>
+<area shape="rect" id="node28" href="$class_xiph_1_1_xiph_frame.html" title="Xiph::XiphFrame\&lt; QString \&gt;" alt="" coords="524,902,711,929"/>
+<area shape="rect" id="node25" href="$class_xiph_1_1_discnumber_frame.html" title="The DiscnumberFrame class. " alt="" coords="783,778,946,805"/>
+<area shape="rect" id="node27" href="$class_xiph_1_1_popularimeter_frame.html" title="The PopularimeterFrame class. " alt="" coords="778,843,951,870"/>
+<area shape="rect" id="node29" href="$class_xiph_1_1_album_artist_frame.html" title="The AlbumArtistFrame class. " alt="" coords="784,902,945,929"/>
+</map>

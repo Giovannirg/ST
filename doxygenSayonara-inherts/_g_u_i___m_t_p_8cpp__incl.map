@@ -1,0 +1,30 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/MTP/GUI_MTP.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/GUI/MTP/GUI_MTP.cpp">
+<area shape="rect" id="node2" href="$_g_u_i___m_t_p_8h.html" title="GUI_MTP.h" alt="" coords="1792,206,1884,233"/>
+<area shape="rect" id="node14" href="$_m_t_p_8h.html" title="Components/MTP/MTP.h" alt="" coords="851,117,1022,143"/>
+<area shape="rect" id="node23" href="$_m_t_p___copy_files_8h.html" title="Components/MTP/MTP\l_CopyFiles.h" alt="" coords="460,109,620,151"/>
+<area shape="rect" id="node32" href="$_tree_delegate_8h.html" title="GUI/Helper/Delegates\l/TreeDelegate.h" alt="" coords="1429,109,1580,151"/>
+<area shape="rect" id="node34" href="$_g_u_i___helper_8h.html" title="GUI/Helper/GUI_Helper.h" alt="" coords="1604,117,1776,143"/>
+<area shape="rect" id="node36" href="$_custom_mime_data_8h.html" title="GUI/Helper/CustomMimeData.h" alt="" coords="1340,206,1549,233"/>
+<area shape="rect" id="node38" href="$_message_8h.html" title="Helper/Message/Message.h" alt="" coords="1852,117,2037,143"/>
+<area shape="rect" id="node42" href="$globals_8h.html" title="Helper/globals.h" alt="" coords="2061,117,2177,143"/>
+<area shape="rect" id="node44" href="$_logger_8h.html" title="Helper/Logger/Logger.h" alt="" coords="2202,117,2359,143"/>
+<area shape="rect" id="node3" href="$_sayonara_dialog_8h.html" title="GUI/Helper/SayonaraWidget\l/SayonaraDialog.h" alt="" coords="1894,288,2082,329"/>
+<area shape="rect" id="node7" href="$_m_t_p___typedefs_8h.html" title="Components/MTP/MTP\l_Typedefs.h" alt="" coords="867,288,1027,329"/>
+<area shape="rect" id="node12" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="1452,295,1560,322"/>
+<area shape="rect" id="node4" href="$_sayonara_widget_template_8h.html" title="SayonaraWidgetTemplate.h" alt="" coords="2017,377,2200,404"/>
+<area shape="rect" id="node5" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="2023,452,2194,493"/>
+<area shape="rect" id="node15" href="$_m_t_p___device_8h.html" title="MTP_Device.h" alt="" coords="1016,206,1126,233"/>
+<area shape="rect" id="node16" href="$_m_t_p___file_8h.html" title="MTP_File.h" alt="" coords="902,206,992,233"/>
+<area shape="rect" id="node17" href="$_m_t_p___folder_8h.html" title="MTP_Folder.h" alt="" coords="488,206,592,233"/>
+<area shape="rect" id="node18" href="$_m_t_p___raw_device_8h.html" title="MTP_RawDevice.h" alt="" coords="742,206,878,233"/>
+<area shape="rect" id="node20" href="$_m_t_p___storage_8h.html" title="MTP_Storage.h" alt="" coords="1150,206,1264,233"/>
+<area shape="rect" id="node22" href="$_m_t_p___track_8h.html" title="MTP_Track.h" alt="" coords="616,206,718,233"/>
+<area shape="rect" id="node24" href="$_meta_data_list_8h.html" title="Helper/MetaData/MetaData\lList.h" alt="" coords="125,199,308,240"/>
+<area shape="rect" id="node25" href="$_meta_data_8h.html" title="MetaData.h" alt="" coords="86,295,176,322"/>
+<area shape="rect" id="node30" href="$_meta_data_fwd_8h.html" title="MetaDataFwd.h" alt="" coords="251,295,366,322"/>
+<area shape="rect" id="node31" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="667,377,792,404"/>
+<area shape="rect" id="node26" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="441,377,642,404"/>
+<area shape="rect" id="node27" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="270,377,365,404"/>
+<area shape="rect" id="node39" href="$_global_message_8h.html" title="GlobalMessage.h" alt="" coords="1992,206,2115,233"/>
+<area shape="rect" id="node40" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="2201,295,2330,322"/>
+</map>

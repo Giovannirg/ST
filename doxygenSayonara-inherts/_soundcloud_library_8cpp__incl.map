@@ -1,0 +1,35 @@
+<map id="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/3rdParty/Soundcloud/src/SoundcloudLibrary.cpp" name="/home/leonard/Schreibtisch/SW/Projekt/sayonara&#45;player&#45;read&#45;only/src/3rdParty/Soundcloud/src/SoundcloudLibrary.cpp">
+<area shape="rect" id="node2" href="$_soundcloud_library_8h.html" title="SoundcloudLibrary.h" alt="" coords="1849,124,1989,151"/>
+<area shape="rect" id="node43" href="$_soundcloud_data_fetcher_8h.html" title="SoundcloudDataFetcher.h" alt="" coords="2839,370,3013,397"/>
+<area shape="rect" id="node44" href="$_cover_lookup_8h.html" title="Components/Covers/CoverLookup.h" alt="" coords="2605,281,2839,307"/>
+<area shape="rect" id="node46" href="$_cover_location_8h.html" title="Components/Covers/CoverLocation.h" alt="" coords="2523,452,2764,479"/>
+<area shape="rect" id="node47" href="$_logger_8h.html" title="Helper/Logger/Logger.h" alt="" coords="2931,124,3089,151"/>
+<area shape="rect" id="node3" href="$_soundcloud_data_8h.html" title="SoundcloudData.h" alt="" coords="1272,199,1401,225"/>
+<area shape="rect" id="node27" href="$_abstract_library_8h.html" title="Components/Library\l/AbstractLibrary.h" alt="" coords="1850,273,1989,315"/>
+<area shape="rect" id="node4" href="$_singleton_8h.html" title="Helper/Singleton.h" alt="" coords="5,452,135,479"/>
+<area shape="rect" id="node5" href="$_library_database_8h.html" title="Database/LibraryDatabase.h" alt="" coords="587,281,775,307"/>
+<area shape="rect" id="node6" href="$_abstract_database_8h.html" title="Database/AbstractDatabase.h" alt="" coords="1304,370,1503,397"/>
+<area shape="rect" id="node9" href="$_database_albums_8h.html" title="Database/DatabaseAlbums.h" alt="" coords="904,370,1097,397"/>
+<area shape="rect" id="node22" href="$_database_artists_8h.html" title="Database/DatabaseArtists.h" alt="" coords="693,370,879,397"/>
+<area shape="rect" id="node23" href="$_database_tracks_8h.html" title="Database/DatabaseTracks.h" alt="" coords="479,370,669,397"/>
+<area shape="rect" id="node24" href="$_database_library_8h.html" title="Database/DatabaseLibrary.h" alt="" coords="267,370,455,397"/>
+<area shape="rect" id="node25" href="$_database_handler_8h.html" title="DatabaseHandler.h" alt="" coords="108,370,243,397"/>
+<area shape="rect" id="node10" href="$_database_search_mode_8h.html" title="Database/DatabaseSearchMode.h" alt="" coords="728,452,951,479"/>
+<area shape="rect" id="node16" href="$_database_module_8h.html" title="Database/DatabaseModule.h" alt="" coords="513,452,704,479"/>
+<area shape="rect" id="node17" href="$_sortorder_8h.html" title="Helper/Library/Sortorder.h" alt="" coords="975,452,1146,479"/>
+<area shape="rect" id="node19" href="$typedefs_8h.html" title="Helper/typedefs.h" alt="" coords="1530,452,1655,479"/>
+<area shape="rect" id="node11" href="$_pimpl_8h.html" title="Helper/Pimpl.h" alt="" coords="2463,527,2571,553"/>
+<area shape="rect" id="node13" href="$_search_mode_8h.html" title="Helper/Library/SearchMode.h" alt="" coords="924,527,1115,553"/>
+<area shape="rect" id="node28" href="$_library_namespaces_8h.html" title="Helper/Library/LibraryNamespaces.h" alt="" coords="1271,452,1506,479"/>
+<area shape="rect" id="node29" href="$_filter_8h.html" title="Helper/Library/Filter.h" alt="" coords="2209,370,2355,397"/>
+<area shape="rect" id="node30" href="$_sayonara_class_8h.html" title="Helper/Settings/Sayonara\lClass.h" alt="" coords="1627,363,1798,404"/>
+<area shape="rect" id="node31" href="$_artist_8h.html" title="Helper/MetaData/Artist.h" alt="" coords="2135,452,2301,479"/>
+<area shape="rect" id="node35" href="$_album_8h.html" title="Helper/MetaData/Album.h" alt="" coords="1937,452,2110,479"/>
+<area shape="rect" id="node36" href="$_meta_data_list_8h.html" title="Helper/MetaData/MetaData\lList.h" alt="" coords="1900,363,2083,404"/>
+<area shape="rect" id="node41" href="$_library_2_sorting_8h.html" title="Helper/Library/Sorting.h" alt="" coords="1121,370,1280,397"/>
+<area shape="rect" id="node32" href="$_library_item_8h.html" title="Helper/MetaData/LibraryItem.h" alt="" coords="1667,527,1868,553"/>
+<area shape="rect" id="node37" href="$_meta_data_8h.html" title="MetaData.h" alt="" coords="1822,452,1913,479"/>
+<area shape="rect" id="node40" href="$_meta_data_fwd_8h.html" title="MetaDataFwd.h" alt="" coords="1683,452,1798,479"/>
+<area shape="rect" id="node38" href="$_set_8h.html" title="Helper/Set.h" alt="" coords="1892,527,1987,553"/>
+<area shape="rect" id="node45" href="$_abstract_cover_lookup_8h.html" title="AbstractCoverLookup.h" alt="" coords="2605,370,2764,397"/>
+</map>
